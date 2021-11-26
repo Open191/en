@@ -1,17 +1,17 @@
 # Table of contents
 
-* [About Elfin](README.md)
+* [About Elfworld](README.md)
 * [Invitation Systerm](invitation-systerm.md)
 
 ## TOKEN ECONOMICS
 
 * [Token Information](token-economics/token-information.md)
 * [Distribution](token-economics/distribution.md)
-* [Withdraw $ELF Token](token-economics/withdraw-token.md)
+* [Withdraw ELFT](token-economics/withdraw-token.md)
 
 ## GAME PLAY
 
-* [Elfinball](game-play/elfinball.md)
+* [Elfball](game-play/elfball.md)
 * [Training Venue](game-play/training-venue.md)
 * [Duel Field (Trailer)](game-play/duel-field.md)
 * [Market (Trailer)](game-play/market.md)

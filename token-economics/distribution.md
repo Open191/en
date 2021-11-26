@@ -2,15 +2,15 @@
 
 #### Token Distribution
 
-| Tokenomics          | Quantity      | Percentage |
-| ------------------- | ------------- | ---------- |
-| Total Supply        | 1,000,000,000 | 100%       |
-| Gameplay Incentives | 700,000,000   | 70%        |
-| Initial Liquidity   | 100,000,000   | 10%        |
-| Marketing           | 70,000,000    | 7%         |
-| Foundation          | 65,000,000    | 6.5%       |
-| Private Sale        | 50,000,000    | 5          |
-| NFT Role Rewards    | 1,500,000     | 1.5%       |
+| Tokenomics              | Quantity      | Percentage |
+| ----------------------- | ------------- | ---------- |
+| Total Supply            | 1,000,000,000 | 100%       |
+| Gameplay Incentives     | 750,000,000   | 75%        |
+| Team                    | 100,000,000   | 10%        |
+| Initial Liquidity       | 60,000,000    | 6%         |
+| Early Investor          | 60,000,000    | 6%         |
+| PNFT Characters Rewards | 10,000,000    | 1%         |
+| Old Token Exchange      | 20,000,000    | 2%         |
 
 #### Token Mechanism
 

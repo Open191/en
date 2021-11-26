@@ -1,10 +1,10 @@
 # Invitation Systerm
 
-#### Elfinball
+#### Elfball
 
-Invite friends to buy a Elfinball, and 1 Elfinball can get 50 ELF rewards.
+Invite friends to buy a elfball, and 1 elfball can get 50 ELFT rewards
 
-#### Hero Training
+#### Training Venue
 
 5% reward of training income of level 1 friends
 
@@ -12,8 +12,8 @@ Invite friends to buy a Elfinball, and 1 Elfinball can get 50 ELF rewards.
 
 #### NFT Market
 
-level1 friends get 2% $ELF reward of turnover
+level1 friends get 2% ELFT reward of turnover
 
-level2 friends get 1% $ELF reward of turnover
+level2 friends get 1% ELFT reward of turnover
 
 More rewards look forward to updates
