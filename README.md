@@ -1,6 +1,6 @@
 # About Elfworld
 
-Elf is a GameFi application adapted from the theme of 《Pokémon》 movie animation.
+Elfworld is a GameFi application adapted from the theme of 《Pokémon》 movie animation.
 
 Elf are NFTs characters cast in according to **ERC-721 standard** and can be traded in our market.Game players are allowed to use elfball to collect elf, and **earn ELFT** through training, duel and other strategies. There are more interesting application scenarios, which will be opened soon.
 
