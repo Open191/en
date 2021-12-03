@@ -8,8 +8,8 @@ There are 8000 BNB elfball, each one costs 0.2 BNB and has a 20 elfball maximum 
 
 | Rarity    | Probability |
 | --------- | ----------- |
-| Common    | 63.75%      |
-| Rare      | 30.65%      |
-| Epic      | 3.75%       |
-| Legendary | 1.25%       |
-| Myth      | 0.6%        |
+| Common    | 60%         |
+| Rare      | 27%         |
+| Epic      | 8%          |
+| Legendary | 4%          |
+| Myth      | 1%          |
