@@ -9,5 +9,5 @@ Name: Elf Token
 Symbol: ELFT
 Decimals: 18
 Network: Binance Smart Chain
-Total Supply: 1 00 000 000
+Total Supply: 1 000 000 000
 ```

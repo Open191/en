@@ -2,14 +2,19 @@
 
 #### Token Distribution
 
-| Tokenomics              | Quantity    | Percentage |
-| ----------------------- | ----------- | ---------- |
-| Total Supply            | 100,000,000 | 100%       |
-| Gameplay Incentives     | 78,000,000  | 78%        |
-| Team                    | 7,000,000   | 7%         |
-| Initial Liquidity       | 3,000,000   | 3%         |
-| Early Investor          | 6,000,000   | 6%         |
-| PNFT Characters Rewards | 5,000,000   | 5%         |
-| Old Token Exchange      | 1,000,000   | 1%         |
+| Tokenomics              | Quantity      | Percentage |
+| ----------------------- | ------------- | ---------- |
+| Total Supply            | 1,000,000,000 | 100%       |
+| Gameplay Incentives     | 750,000,000   | 75%        |
+| Team                    | 100,000,000   | 10%        |
+| Initial Liquidity       | 60,000,000    | 6%         |
+| Early Investor          | 60,000,000    | 6%         |
+| PNFT Characters Rewards | 10,000,000    | 1%         |
+| Old Token Exchange      | 20,000,000    | 2%         |
 
-####
+#### Token Mechanism
+
+* Transaction：8%
+* Foundation：4%
+* Liquidity：3%
+* Burn：1%
