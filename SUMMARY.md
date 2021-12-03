@@ -19,9 +19,9 @@
 * [Breeding (Trailer)](game-play/breeding.md)
 * [Day Care (Trailer)](game-play/day-care.md)
 
-## ELF-DEX
+## ELF-Guide
 
-* [Feature Information](elf-dex/feature-information.md)
-* [Type](elf-dex/type.md)
-* [Permanent stats](elf-dex/permanent-stats.md)
-* [Egg group](elf-dex/egg-group.md)
+* [Feature Information](elf-guide/feature-information.md)
+* [Type](elf-guide/type.md)
+* [Permanent stats](elf-guide/permanent-stats.md)
+* [Egg group](elf-guide/egg-group.md)
