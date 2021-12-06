@@ -2,7 +2,7 @@
 
 * [About Elfworld](README.md)
 * [Invitation Systerm](invitation-systerm.md)
-* [Language](<README (1).md>)
+* [Language](language/README.md)
   * [English（Main）](https://docs.elfworld.games)
   * [简体中文](https://docs.elfworld.games/zh/)
 
