@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Language](README.md)
+* [About Elfworld](README.md)
+* [Invitation Systerm](invitation-systerm.md)
+* [Language](<README (1).md>)
   * [English（Main）](https://docs.elfworld.games)
   * [简体中文](https://docs.elfworld.games/zh/)
-* [About Elfworld](<README (1).md>)
-* [Invitation Systerm](invitation-systerm.md)
 
 ## TOKEN ECONOMICS
 
