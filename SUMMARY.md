@@ -19,7 +19,7 @@
 * [Breeding (Trailer)](game-play/breeding.md)
 * [Day Care (Trailer)](game-play/day-care.md)
 
-## ELF-Guide
+## ELF GUIDE
 
 * [Feature Information](elf-guide/feature-information.md)
 * [Type](elf-guide/type.md)
