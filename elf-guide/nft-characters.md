@@ -2,7 +2,7 @@
 
 Players can purchase fairy balls to randomly acquire elves. There are currently 15 types of Genesis elves, covering 15 egg groups. New types of elf will be created in the future as the game is updated.
 
-### Ho-Oh
+### Ho-Oh <a href="#ho-oh" id="ho-oh"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FecBou0FZUKSq9zpptGix%2FHo-Oh.png?alt=media\&token=e9da84f4-5314-4c01-b051-83b445dc47fc)
 
