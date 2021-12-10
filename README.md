@@ -1,5 +1,7 @@
 # About Elfworld
 
+![](.gitbook/assets/封面图.png)
+
 Elfworld is a GameFi application with elf as the protagonist. It is made with reference to various types of wizard movies, animations, and games around the world. A huge metaverse world is constructed in it.
 
 Elf are NFTs characters cast in according to **ERC-721 standard** and can be traded in our market.Game players are allowed to use elfball to collect elf, and **earn ELFT** through training, duel and other strategies. There are more interesting application scenarios, which will be opened soon.
