@@ -22,12 +22,12 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 106   |
+| Attach          | 130   |
+| Defense         | 90    |
+| Special Attack  | 110   |
+| Special Defense | 154   |
+| Speed           | 110   |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -58,12 +58,12 @@ It is covered with a light purple. It has a pair of small black eyes, and its bo
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 48    |
+| Attach          | 48    |
+| Defense         | 48    |
+| Special Attack  | 48    |
+| Special Defense | 48    |
+| Speed           | 48    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -94,12 +94,12 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 25    |
+| Attach          | 20    |
+| Defense         | 15    |
+| Special Attack  | 105   |
+| Special Defense | 55    |
+| Speed           | 90    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -130,12 +130,12 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 30    |
+| Attach          | 35    |
+| Defense         | 30    |
+| Special Attack  | 100   |
+| Special Defense | 35    |
+| Speed           | 80    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -166,12 +166,12 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 50    |
+| Attach          | 64    |
+| Defense         | 50    |
+| Special Attack  | 45    |
+| Special Defense | 50    |
+| Speed           | 41    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -202,12 +202,12 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 50    |
+| Attach          | 50    |
+| Defense         | 95    |
+| Special Attack  | 40    |
+| Special Defense | 50    |
+| Speed           | 35    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -238,12 +238,12 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 45    |
+| Attach          | 49    |
+| Defense         | 49    |
+| Special Attack  | 65    |
+| Special Defense | 65    |
+| Speed           | 45    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -274,12 +274,12 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 44    |
+| Attach          | 48    |
+| Defense         | 65    |
+| Special Attack  | 50    |
+| Special Defense | 64    |
+| Speed           | 43    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -310,12 +310,12 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 39    |
+| Attach          | 52    |
+| Defense         | 43    |
+| Special Attack  | 60    |
+| Special Defense | 50    |
+| Speed           | 65    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -346,12 +346,12 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 20    |
+| Attach          | 40    |
+| Defense         | 15    |
+| Special Attack  | 35    |
+| Special Defense | 35    |
+| Speed           | 60    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -382,12 +382,12 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 40    |
+| Attach          | 50    |
+| Defense         | 40    |
+| Special Attack  | 40    |
+| Special Defense | 40    |
+| Speed           | 90    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -418,12 +418,12 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 45    |
+| Attach          | 67    |
+| Defense         | 60    |
+| Special Attack  | 35    |
+| Special Defense | 50    |
+| Speed           | 63    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -454,14 +454,16 @@ The hard shell can bounce off any attack, and it will be very vulnerable if it i
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
+
+
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 30    |
+| Attach          | 65    |
+| Defense         | 100   |
+| Special Attack  | 45    |
+| Special Defense | 25    |
+| Speed           | 40    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -492,12 +494,12 @@ It started activities after the sun went down. Because its skin is so thin that 
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 40    |
+| Attach          | 45    |
+| Defense         | 35    |
+| Special Attack  | 30    |
+| Special Defense | 40    |
+| Speed           | 55    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -528,12 +530,14 @@ The electromagnetic waves released by the components on the left and right shiel
 {% tab title="Permanent Stats" %}
 | Type            | value |
 | --------------- | ----- |
-| HP              |       |
-| Attach          |       |
-| Defense         |       |
-| Special Attack  |       |
-| Special Defense |       |
-| Speed           |       |
+| HP              | 25    |
+| Attach          | 35    |
+| Defense         | 70    |
+| Special Attack  | 95    |
+| Special Defense | 55    |
+| Speed           | 45    |
+
+
 {% endtab %}
 
 {% tab title="Breeding" %}
