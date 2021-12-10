@@ -2,7 +2,7 @@
 
 Players can purchase fairy balls to randomly acquire elves. There are currently 15 types of Genesis elves, covering 15 egg groups. New types of elf will be created in the future as the game is updated.
 
-#### Ho-Oh
+### Ho-Oh
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FecBou0FZUKSq9zpptGix%2FHo-Oh.png?alt=media\&token=e9da84f4-5314-4c01-b051-83b445dc47fc)
 
@@ -38,7 +38,7 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 {% endtab %}
 {% endtabs %}
 
-#### Ditto <a href="#bai-bian-guai" id="bai-bian-guai"></a>
+### Ditto <a href="#bai-bian-guai" id="bai-bian-guai"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FS0ckMgkq83zNfTlrTPYe%2F%E7%99%BE%E5%8F%98%E6%80%AA.png?alt=media\&token=c3e90f62-eb58-4330-8794-4104a9b09764)
 
@@ -74,7 +74,7 @@ It is covered with a light purple. It has a pair of small black eyes, and its bo
 {% endtab %}
 {% endtabs %}
 
-#### Abra <a href="#kai-xi" id="kai-xi"></a>
+### Abra <a href="#kai-xi" id="kai-xi"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FLqapxbVjUQj5qvEX2bZX%2FAbra.png?alt=media\&token=bcdd4dd4-fbb4-40ee-b446-47724555beac)
 
@@ -110,7 +110,7 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 {% endtab %}
 {% endtabs %}
 
-#### Gastly <a href="#gui-si" id="gui-si"></a>
+### Gastly <a href="#gui-si" id="gui-si"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FrH4McnT11XfrmM6vcMLX%2F%E9%AC%BC%E6%96%AF.png?alt=media\&token=fe8ff9ff-c403-4026-be43-2e19a3dfc454)
 
@@ -146,7 +146,7 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 {% endtab %}
 {% endtabs %}
 
-#### Cubone <a href="#you-ji-la-si" id="you-ji-la-si"></a>
+### Cubone <a href="#you-ji-la-si" id="you-ji-la-si"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F4GXJRTu1dVA9QStzTRLc%2FLarvitar.png?alt=media\&token=0e8bb61e-f974-458f-8e73-bad3c723766c)
 
@@ -182,7 +182,7 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 {% endtab %}
 {% endtabs %}
 
-#### Cubone <a href="#ka-la-ka-la" id="ka-la-ka-la"></a>
+### Cubone <a href="#ka-la-ka-la" id="ka-la-ka-la"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FtXWld8nBW0SzRswU5R95%2FCubone.png?alt=media\&token=e1fe9007-30f0-4fa1-b20b-9af496975a8e)
 
@@ -218,7 +218,7 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 {% endtab %}
 {% endtabs %}
 
-#### Bulbasaur <a href="#miao-wa-zhong-zi" id="miao-wa-zhong-zi"></a>
+### Bulbasaur <a href="#miao-wa-zhong-zi" id="miao-wa-zhong-zi"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F9WRxicY5x3fLDCq8h4Kn%2F%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png?alt=media\&token=2945ac3d-cb2e-47f6-86b0-5bb46f7c3143)
 
@@ -254,7 +254,7 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 {% endtab %}
 {% endtabs %}
 
-#### Squirtle <a href="#jie-ni-gui" id="jie-ni-gui"></a>
+### Squirtle <a href="#jie-ni-gui" id="jie-ni-gui"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F5wFtSkTazabQ1VVRPfHd%2F%E6%9D%B0%E5%B0%BC%E9%BE%9F.png?alt=media\&token=836694b4-0663-4027-b63f-ba03d12dcd45)
 
@@ -290,7 +290,7 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 {% endtab %}
 {% endtabs %}
 
-#### Charmander <a href="#xiao-huo-long" id="xiao-huo-long"></a>
+### Charmander <a href="#xiao-huo-long" id="xiao-huo-long"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FH7Yb7wwWXLR3K2bHAyAd%2F%E5%B0%8F%E7%81%AB%E9%BE%99.png?alt=media\&token=211dfa43-faf8-400e-a17e-7018f5ce33b9)
 
@@ -326,7 +326,7 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 {% endtab %}
 {% endtabs %}
 
-#### Pichu <a href="#pi-qiu" id="pi-qiu"></a>
+### Pichu <a href="#pi-qiu" id="pi-qiu"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FXbPOnPwuFpIGSrcvpWWT%2Fpichu.png?alt=media\&token=2276f238-b06c-434e-a4c7-8ad95c089ab7)
 
@@ -362,7 +362,7 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 {% endtab %}
 {% endtabs %}
 
-#### Shellder <a href="#wen-xiang-ke-dou" id="wen-xiang-ke-dou"></a>
+### Shellder <a href="#wen-xiang-ke-dou" id="wen-xiang-ke-dou"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FZk6wTG4KLwluBg1g8uFV%2F%E8%9A%8A%E9%A6%99%E8%9D%8C%E8%9A%AA.png?alt=media\&token=026096aa-9824-4407-afa8-31deeb9de35d)
 
@@ -398,7 +398,7 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 {% endtab %}
 {% endtabs %}
 
-#### Goldeen <a href="#jiao-jin-yu" id="jiao-jin-yu"></a>
+### Goldeen <a href="#jiao-jin-yu" id="jiao-jin-yu"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FLSia6rQHplovfcVLOkiy%2F%E8%A7%92%E9%87%91%E9%B1%BC.png?alt=media\&token=7092c768-6ce1-462d-a579-5c770afbea79)
 
@@ -434,7 +434,7 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 {% endtab %}
 {% endtabs %}
 
-#### Shellder <a href="#da-she-bei" id="da-she-bei"></a>
+### Shellder <a href="#da-she-bei" id="da-she-bei"></a>
 
 ​​
 
@@ -474,7 +474,7 @@ The hard shell can bounce off any attack, and it will be very vulnerable if it i
 {% endtab %}
 {% endtabs %}
 
-#### Zubat <a href="#da-she-bei-1" id="da-she-bei-1"></a>
+### Zubat <a href="#da-she-bei-1" id="da-she-bei-1"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F8CCO5BJuzoGcyeE2vxe8%2F%E8%B6%85%E9%9F%B3%E8%9D%A0.png?alt=media\&token=3c63e5b1-e454-4c9e-867f-33dfad36dc8a)
 
@@ -510,7 +510,7 @@ It started activities after the sun went down. Because its skin is so thin that 
 {% endtab %}
 {% endtabs %}
 
-#### Magnemite <a href="#da-she-bei-2" id="da-she-bei-2"></a>
+### Magnemite <a href="#da-she-bei-2" id="da-she-bei-2"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FuTeu369FrtM0GvfiQcCh%2F%E5%B0%8F%E7%A3%81%E6%80%AA.png?alt=media\&token=f5ab82d1-af10-48a8-b941-f9247fd2f83b)
 
