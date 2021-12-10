@@ -31,4 +31,4 @@
 
 ## Invitation Systerm
 
-* [Invitation Program](invitation-systerm/invitation-systerm.md)
+* [Invitation Program](invitation-systerm/invitation-program.md)
