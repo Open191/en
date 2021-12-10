@@ -10,13 +10,13 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value |
-| --------- | ----- |
-| Type      |       |
-| Rarity    |       |
-| Height    |       |
-| Weight    |       |
-| Evolution |       |
+| Type      | Value       |
+| --------- | ----------- |
+| Type      | Fire/Flying |
+| Rarity    | Myth        |
+| Height    | 3.8m        |
+| Weight    | 199.0kg     |
+| Evolution | Unevolved   |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
@@ -31,10 +31,10 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 {% endtab %}
 
 {% tab title="Breeding" %}
-| Type      | value |
-| --------- | ----- |
-| Egg Group |       |
-| Gender    |       |
+| Type      | value          |
+| --------- | -------------- |
+| Egg Group | AlphaDitto     |
+| Gender    | Gender unknown |
 {% endtab %}
 {% endtabs %}
 
@@ -44,11 +44,71 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 
 It is covered with a light purple. It has a pair of small black eyes, and its body is soft and flexible. Turn into stone when sleeping to prevent being attacked. When the two met at the same time, they moved more vigorously than usual in order to be exactly the same as the other. It can transform itself into the opponent's appearance by changing its own cell combination and copying all the cell combinations of the copied object, and can even use the opponent's skills.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value     |
+| --------- | --------- |
+| Type      | Normal    |
+| Rarity    | Legendary |
+| Height    |           |
+| Weight    |           |
+| Evolution | Unevolved |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value          |
+| --------- | -------------- |
+| Egg Group | Ditto          |
+| Gender    | Gender unknown |
+{% endtab %}
+{% endtabs %}
+
 #### Abra <a href="#kai-xi" id="kai-xi"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FLqapxbVjUQj5qvEX2bZX%2FAbra.png?alt=media\&token=bcdd4dd4-fbb4-40ee-b446-47724555beac)
 
 It can sense danger through a telepathic radar. When it does, it teleports to a safe location. However, it sometimes becomes panicked if it wakes in an unknown location. By hypnotizing itself, it is able to teleport itself even while sleeping. It can use other extrasensory abilities while sleeping as well and can even teleport into the treetops to pick and eat berries. The deeper sleeps, the farther it teleports. Due to the strain of its telepathic powers, however, it sleeps 18 hours each day. If it fails to rest long enough, it will become unable to use its powers. The contents in it's dream can affect its powers.
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                 |
+| --------- | --------------------- |
+| Type      | Psychic               |
+| Rarity    | Legendary             |
+| Height    |                       |
+| Weight    |                       |
+| Evolution | Abra→Kadabra→Alakazam |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Human-Like        |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
 
 #### Gastly <a href="#gui-si" id="gui-si"></a>
 
@@ -56,13 +116,71 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 It can make an Indian elephant fall in two seconds by enclosing it with poisonous gas. In some occasional situations, it will gain the ability to speak like a human and be able to transform its own form. It can communicate with telepathy, create phantoms, transform into a girl or an old woman, and communicate with the soul of the dead.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                 |
+| --------- | --------------------- |
+| Type      | Ghost/Poison          |
+| Rarity    | Epic                  |
+| Height    |                       |
+| Weight    |                       |
+| Evolution | Gastly→Haunter→Gengar |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Amorphous         |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 #### Cubone <a href="#you-ji-la-si" id="you-ji-la-si"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F4GXJRTu1dVA9QStzTRLc%2FLarvitar.png?alt=media\&token=0e8bb61e-f974-458f-8e73-bad3c723766c)
 
 It grows by consuming soil and will enter its pupal stage upon eating an entire mountain's worth of earth. Larvitar usually lives in mountains, hills, and caves.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                      |
+| --------- | -------------------------- |
+| Type      | Rock/Ground                |
+| Rarity    | Epic                       |
+| Height    |                            |
+| Weight    |                            |
+| Evolution | Larvitar→Pupitar→Tyranitar |
+{% endtab %}
 
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Monster           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
 
 #### Cubone <a href="#ka-la-ka-la" id="ka-la-ka-la"></a>
 
@@ -70,13 +188,71 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 
 It has been wearing the skull of his deceased mother, so it is not clear what his true appearance is. The skull worn in sadness and loneliness will swing and make a short-term sad sound. It is said that it is related to the bag dragon, and it is suspected to be the baby of the bag dragon.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value          |
+| --------- | -------------- |
+| Type      | Ground         |
+| Rarity    | Epic           |
+| Height    |                |
+| Weight    |                |
+| Evolution | Cubone→Marowak |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Monster           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 #### Bulbasaur <a href="#miao-wa-zhong-zi" id="miao-wa-zhong-zi"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F9WRxicY5x3fLDCq8h4Kn%2F%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png?alt=media\&token=2945ac3d-cb2e-47f6-86b0-5bb46f7c3143)
 
-
-
 Its most notable feature is the bulbous seed behind it. There is a symbiotic relationship between the seed and the frog. Since its birth, the seed and the body have grown together.
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                      |
+| --------- | -------------------------- |
+| Type      | Grass/Poison               |
+| Rarity    | Rare                       |
+| Height    |                            |
+| Weight    |                            |
+| Evolution | Bulbasaur→Ivysaur→Venusaur |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Monster/Grass     |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
 
 #### Squirtle <a href="#jie-ni-gui" id="jie-ni-gui"></a>
 
@@ -84,11 +260,71 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 
 It is a natural swimmer, but due to its small size, it is only suitable for transporting small items. Although its chin looks very inconspicuous, it can learn to bite. Its head is small, but it can use rocket head mallets.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                        |
+| --------- | ---------------------------- |
+| Type      | Water                        |
+| Rarity    | Rare                         |
+| Height    |                              |
+| Weight    |                              |
+| Evolution | Squirtle→Wartortle→Blastoise |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value                        |
+| --------- | ---------------------------- |
+| Egg Group | Monster/Water 1Monster/Grass |
+| Gender    | Male : Female=1:1            |
+{% endtab %}
+{% endtabs %}
+
 #### Charmander <a href="#xiao-huo-long" id="xiao-huo-long"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FH7Yb7wwWXLR3K2bHAyAd%2F%E5%B0%8F%E7%81%AB%E9%BE%99.png?alt=media\&token=211dfa43-faf8-400e-a17e-7018f5ce33b9)
 
 The flame on its tail can express its emotions. When it is happy, the flame will flicker. If it is provoked, the flame will burn violently. When he was born, there was a fire burning on his tail. When the fire on the tail goes out, its life is over.
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                           |
+| --------- | ------------------------------- |
+| Type      | Fire                            |
+| Rarity    | Rare                            |
+| Height    |                                 |
+| Weight    |                                 |
+| Evolution | Charmander→Charmeleon→Charizard |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Monster/Dragon    |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
 
 #### Pichu <a href="#pi-qiu" id="pi-qiu"></a>
 
@@ -96,17 +332,107 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 
 It is usually found in groups and often touch tails with other Pichu as a show of courage, creating a shower of sparks that can make them cry. It is inept at storing electricity and may discharge if amused, startled, or subjected to shock. However, it cannot discharge without being shocked itself. Charging up is more easily done on days of dryness or with thunderclouds. The crackling of static electricity generated by Pichu is audible. It can zap an adult human but will surprise itself if it does.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                |
+| --------- | -------------------- |
+| Type      | Electric             |
+| Rarity    | Rare                 |
+| Height    |                      |
+| Weight    |                      |
+| Evolution | Pichu→Pikachu→Raichu |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Field/Fairy       |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 #### Shellder <a href="#wen-xiang-ke-dou" id="wen-xiang-ke-dou"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FZk6wTG4KLwluBg1g8uFV%2F%E8%9A%8A%E9%A6%99%E8%9D%8C%E8%9A%AA.png?alt=media\&token=026096aa-9824-4407-afa8-31deeb9de35d)
 
 It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its tail makes it a powerful swimmer. It loves to waddle on land despite the dangers. However, it will quickly return back into the water should it see danger. It cannot walk on land well unless trained everyday.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                       |
+| --------- | --------------------------- |
+| Type      | Water                       |
+| Rarity    | Common                      |
+| Height    |                             |
+| Weight    |                             |
+| Evolution | Poliwag→Poliwhirl→Poliwrath |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Water 1           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 #### Goldeen <a href="#jiao-jin-yu" id="jiao-jin-yu"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FLSia6rQHplovfcVLOkiy%2F%E8%A7%92%E9%87%91%E9%B1%BC.png?alt=media\&token=7092c768-6ce1-462d-a579-5c770afbea79)
 
 The unicorn’s attack is very strong. I like swimming in rivers or ponds very much. But if it is put in the water tank, even the thick glass will have to be broken with a corner to escape.
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Water                            |
+| Rarity    | Common                           |
+| Height    |                                  |
+| Weight    |                                  |
+| Evolution | Goldeen→SeakingShellder→Cloyster |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Water 2           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
 
 #### Shellder <a href="#da-she-bei" id="da-she-bei"></a>
 
@@ -116,14 +442,104 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 
 The hard shell can bounce off any attack, and it will be very vulnerable if it is attacked when the shell is opened. At night, I dig a hole in the sand on the seabed with my big tongue and sleep in it. Although sleeping with the shell closed, the tongue sticks out.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Type      | Water             |
+| Rarity    | Common            |
+| Height    |                   |
+| Weight    |                   |
+| Evolution | Shellder→Cloyster |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Water 3           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 #### Zubat <a href="#da-she-bei-1" id="da-she-bei-1"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F8CCO5BJuzoGcyeE2vxe8%2F%E8%B6%85%E9%9F%B3%E8%9D%A0.png?alt=media\&token=3c63e5b1-e454-4c9e-867f-33dfad36dc8a)
 
 It started activities after the sun went down. Because its skin is so thin that it burns as long as it is exposed to the sun, it sleeps in the dark during the day. When the weather gets cold, they will huddle together to keep warm.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value               |
+| --------- | ------------------- |
+| Type      | Poison/Flying       |
+| Rarity    | Common              |
+| Height    |                     |
+| Weight    |                     |
+| Evolution | Zubat→Golbat→Crobat |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Flying            |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 #### Magnemite <a href="#da-she-bei-2" id="da-she-bei-2"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FuTeu369FrtM0GvfiQcCh%2F%E5%B0%8F%E7%A3%81%E6%80%AA.png?alt=media\&token=f5ab82d1-af10-48a8-b941-f9247fd2f83b)
 
 The electromagnetic waves released by the components on the left and right shield the gravity, thus floating in the air. The parts on the left and right are powerful magnets. It can emit strong magnetic force enough to attract iron within a radius of 100 meters.
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                        |
+| --------- | ---------------------------- |
+| Type      | Electric/Steel               |
+| Rarity    | Common                       |
+| Height    |                              |
+| Weight    |                              |
+| Evolution | Magnemite→Magneton→Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
