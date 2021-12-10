@@ -362,7 +362,7 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 {% endtab %}
 {% endtabs %}
 
-### Shellder <a href="#shellder" id="shellder"></a>
+### Poliwag <a href="#poliwag" id="poliwag"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FZk6wTG4KLwluBg1g8uFV%2F%E8%9A%8A%E9%A6%99%E8%9D%8C%E8%9A%AA.png?alt=media\&token=026096aa-9824-4407-afa8-31deeb9de35d)
 
