@@ -26,5 +26,6 @@
 
 * [Feature Information](elf-guide/feature-information.md)
 * [Type](elf-guide/type.md)
-* [Permanent stats](elf-guide/permanent-stats.md)
-* [Egg group](elf-guide/egg-group.md)
+* [Permanent Stats](elf-guide/permanent-stats.md)
+* [Egg Group](elf-guide/egg-group.md)
+* [NFT Characters](elf-guide/nft-characters.md)
