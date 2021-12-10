@@ -23,11 +23,11 @@
 
 ## ELF GUIDE
 
+* [NFT Characters](elf-guide/nft-characters.md)
 * [Feature Information](elf-guide/feature-information.md)
 * [Type](elf-guide/type.md)
 * [Permanent Stats](elf-guide/permanent-stats.md)
 * [Egg Group](elf-guide/egg-group.md)
-* [NFT Characters](elf-guide/nft-characters.md)
 
 ## Invitation Systerm
 
