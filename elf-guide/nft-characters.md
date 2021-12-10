@@ -50,8 +50,8 @@ It is covered with a light purple. It has a pair of small black eyes, and its bo
 | --------- | --------- |
 | Type      | Normal    |
 | Rarity    | Legendary |
-| Height    |           |
-| Weight    |           |
+| Height    | 0.3m      |
+| Weight    | 4.0kg     |
 | Evolution | Unevolved |
 {% endtab %}
 
@@ -86,8 +86,8 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 | --------- | --------------------- |
 | Type      | Psychic               |
 | Rarity    | Legendary             |
-| Height    |                       |
-| Weight    |                       |
+| Height    | 0.9m                  |
+| Weight    | 19.5kg                |
 | Evolution | Abra→Kadabra→Alakazam |
 {% endtab %}
 
@@ -122,8 +122,8 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 | --------- | --------------------- |
 | Type      | Ghost/Poison          |
 | Rarity    | Epic                  |
-| Height    |                       |
-| Weight    |                       |
+| Height    | 1.3m                  |
+| Weight    | 0.1kg                 |
 | Evolution | Gastly→Haunter→Gengar |
 {% endtab %}
 
@@ -158,8 +158,8 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 | --------- | -------------------------- |
 | Type      | Rock/Ground                |
 | Rarity    | Epic                       |
-| Height    |                            |
-| Weight    |                            |
+| Height    | 0.6m                       |
+| Weight    | 72.0kg                     |
 | Evolution | Larvitar→Pupitar→Tyranitar |
 {% endtab %}
 
@@ -194,8 +194,8 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 | --------- | -------------- |
 | Type      | Ground         |
 | Rarity    | Epic           |
-| Height    |                |
-| Weight    |                |
+| Height    | 0.4m           |
+| Weight    | 6.5kg          |
 | Evolution | Cubone→Marowak |
 {% endtab %}
 
@@ -230,8 +230,8 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 | --------- | -------------------------- |
 | Type      | Grass/Poison               |
 | Rarity    | Rare                       |
-| Height    |                            |
-| Weight    |                            |
+| Height    | 0.7m                       |
+| Weight    | 6.9kg                      |
 | Evolution | Bulbasaur→Ivysaur→Venusaur |
 {% endtab %}
 
@@ -266,8 +266,8 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 | --------- | ---------------------------- |
 | Type      | Water                        |
 | Rarity    | Rare                         |
-| Height    |                              |
-| Weight    |                              |
+| Height    | 0.5m                         |
+| Weight    | 9.0kg                        |
 | Evolution | Squirtle→Wartortle→Blastoise |
 {% endtab %}
 
@@ -302,8 +302,8 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 | --------- | ------------------------------- |
 | Type      | Fire                            |
 | Rarity    | Rare                            |
-| Height    |                                 |
-| Weight    |                                 |
+| Height    | 0.6m                            |
+| Weight    | 8.5kg                           |
 | Evolution | Charmander→Charmeleon→Charizard |
 {% endtab %}
 
@@ -338,8 +338,8 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 | --------- | -------------------- |
 | Type      | Electric             |
 | Rarity    | Rare                 |
-| Height    |                      |
-| Weight    |                      |
+| Height    | 0.3m                 |
+| Weight    | 2.0kg                |
 | Evolution | Pichu→Pikachu→Raichu |
 {% endtab %}
 
@@ -374,8 +374,8 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 | --------- | --------------------------- |
 | Type      | Water                       |
 | Rarity    | Common                      |
-| Height    |                             |
-| Weight    |                             |
+| Height    | 0.6m                        |
+| Weight    | 12.4kg                      |
 | Evolution | Poliwag→Poliwhirl→Poliwrath |
 {% endtab %}
 
@@ -410,8 +410,8 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 | --------- | -------------------------------- |
 | Type      | Water                            |
 | Rarity    | Common                           |
-| Height    |                                  |
-| Weight    |                                  |
+| Height    | 0.6m                             |
+| Weight    | 15.0kg                           |
 | Evolution | Goldeen→SeakingShellder→Cloyster |
 {% endtab %}
 
@@ -448,8 +448,8 @@ The hard shell can bounce off any attack, and it will be very vulnerable if it i
 | --------- | ----------------- |
 | Type      | Water             |
 | Rarity    | Common            |
-| Height    |                   |
-| Weight    |                   |
+| Height    | 0.3m              |
+| Weight    | 4.0kg             |
 | Evolution | Shellder→Cloyster |
 {% endtab %}
 
@@ -484,8 +484,8 @@ It started activities after the sun went down. Because its skin is so thin that 
 | --------- | ------------------- |
 | Type      | Poison/Flying       |
 | Rarity    | Common              |
-| Height    |                     |
-| Weight    |                     |
+| Height    | 0.8m                |
+| Weight    | 7.5kg               |
 | Evolution | Zubat→Golbat→Crobat |
 {% endtab %}
 
@@ -520,8 +520,8 @@ The electromagnetic waves released by the components on the left and right shiel
 | --------- | ---------------------------- |
 | Type      | Electric/Steel               |
 | Rarity    | Common                       |
-| Height    |                              |
-| Weight    |                              |
+| Height    | 0.3m                         |
+| Weight    | 6.0kg                        |
 | Evolution | Magnemite→Magneton→Magnezone |
 {% endtab %}
 
