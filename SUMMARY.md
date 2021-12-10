@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About Elfworld](README.md)
-* [Invitation Systerm](invitation-systerm.md)
 * [Language](language/README.md)
   * [English（Main）](https://docs.elfworld.games)
   * [简体中文](https://docs.elfworld.games/zh/)
@@ -29,3 +28,7 @@
 * [Permanent Stats](elf-guide/permanent-stats.md)
 * [Egg Group](elf-guide/egg-group.md)
 * [NFT Characters](elf-guide/nft-characters.md)
+
+## Invitation Systerm
+
+* [Invitation Program](invitation-systerm/invitation-systerm.md)
