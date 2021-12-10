@@ -146,7 +146,7 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 {% endtab %}
 {% endtabs %}
 
-### Larvitar <a href="#arvitar" id="arvitar"></a>
+### Larvitar <a href="#larvitar" id="larvitar"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F4GXJRTu1dVA9QStzTRLc%2FLarvitar.png?alt=media\&token=0e8bb61e-f974-458f-8e73-bad3c723766c)
 
