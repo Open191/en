@@ -8,6 +8,36 @@ Players can purchase fairy balls to randomly acquire elves. There are currently 
 
 It has the magical power to resurrect the dead. A rainbow will form where it flies. Legend has it that those who see it will get eternal happiness. Before the Bell Tower (the predecessor of the Charred Tower) was burnt down, it perched on the top of the Bell Tower. Presumably, it has been flying in the sky since then, looking for people with pure hearts.
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value |
+| --------- | ----- |
+| Type      |       |
+| Rarity    |       |
+| Height    |       |
+| Weight    |       |
+| Evolution |       |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type            | value |
+| --------------- | ----- |
+| HP              |       |
+| Attach          |       |
+| Defense         |       |
+| Special Attack  |       |
+| Special Defense |       |
+| Speed           |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | value |
+| --------- | ----- |
+| Egg Group |       |
+| Gender    |       |
+{% endtab %}
+{% endtabs %}
+
 #### Ditto <a href="#bai-bian-guai" id="bai-bian-guai"></a>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FS0ckMgkq83zNfTlrTPYe%2F%E7%99%BE%E5%8F%98%E6%80%AA.png?alt=media\&token=c3e90f62-eb58-4330-8794-4104a9b09764)
