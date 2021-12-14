@@ -1,15 +1,16 @@
 # Table of contents
 
 * [About Elfworld](README.md)
-* [Language](language/README.md)
-  * [English（Main）](https://docs.elfworld.games)
-  * [简体中文](https://docs.elfworld.games/zh/)
 
 ## TOKEN ECONOMICS
 
 * [Token Information](token-economics/token-information.md)
 * [Distribution](token-economics/distribution.md)
 * [Withdraw ELFT](token-economics/withdraw-token.md)
+
+## Invitation Systerm
+
+* [Invitation Program](invitation-systerm/invitation-program.md)
 
 ## GAME PLAY
 
@@ -28,7 +29,3 @@
 * [Type](elf-guide/type.md)
 * [Permanent Stats](elf-guide/permanent-stats.md)
 * [Egg Group](elf-guide/egg-group.md)
-
-## Invitation Systerm
-
-* [Invitation Program](invitation-systerm/invitation-program.md)
