@@ -1,6 +1,9 @@
 # Table of contents
 
 * [About Elfworld](README.md)
+* [Language](language/README.md)
+  * [English (Main)](https://docs.elfworld.games)
+  * [简体中文](https://docs.elfworld.games/zh/)
 
 ## TOKEN ECONOMICS
 
