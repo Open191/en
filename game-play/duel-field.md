@@ -1,6 +1,8 @@
-# Duel Field (Trailer)
+---
+description: Coming Soon
+---
 
-## &#x20;                                   Coming Soon
+# Duel Field (Trailer)
 
 ![](../.gitbook/assets/fighting.png)
 
