@@ -32,6 +32,6 @@
 * [Permanent Stats](elf-guide/permanent-stats.md)
 * [Egg Group](elf-guide/egg-group.md)
 
-***
+## ABOUT US
 
-* [About Team](about-team.md)
+* [Team](about-us/team.md)
