@@ -9,7 +9,6 @@
 
 * [Token Information](token-economics/token-information.md)
 * [Distribution](token-economics/distribution.md)
-* [Withdraw ELFT](token-economics/withdraw-token.md)
 
 ## Invitation Systerm
 
