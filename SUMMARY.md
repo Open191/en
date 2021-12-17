@@ -31,3 +31,7 @@
 * [Type](elf-guide/type.md)
 * [Permanent Stats](elf-guide/permanent-stats.md)
 * [Egg Group](elf-guide/egg-group.md)
+
+***
+
+* [About Team](about-team.md)
