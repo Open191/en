@@ -1,0 +1,10 @@
+{
+	"plugins": [
+	  "versions-select" ,
+	  "-lunr", 
+	  "-search", 
+	  "search-pro",
+	  "tabs2",
+	  "theme-comscore"
+	]
+}

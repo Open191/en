@@ -1,0 +1,23 @@
+{
+	"plugins": [
+	  "versions-select" ,
+	  "-lunr", 
+	  "-search", 
+	  "search-pro",
+	  "theme-comscore"
+	],
+    "pluginsConfig": {
+        "versions": {
+            "options": [
+			    {
+                    "value": "https://docs.elfworld.games/",
+                    "text": "English"
+                },      
+			    {
+                    "value": "https://docs.elfworld.games/zh/",
+                    "text": "中文"
+                }                         
+            ]
+        }
+    }
+}

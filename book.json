@@ -1,0 +1,9 @@
+{
+	"plugins": [
+	  "-lunr", 
+	  "-search", 
+	  "search-pro",
+	  "tabs2",
+	  "theme-comscore"
+	]
+}
