@@ -6,15 +6,13 @@
 | --- | --- | --- |
 | Total Supply | 100,000,000 | 100% |
 | Gameplay Incentives | 78,000,000 | 78% |
-| Team | 7,000,000 | 7% |
+| Team | 9,000,000 | 9% |
 | Initial Liquidity | 3,000,000 | 3% |
-| Early Investor | 6,000,000 | 6% |
+| Early Investor | 5,000,000 | 5% |
 | Marketing | 5,000,000 | 5% |
-| Old Token Exchange | 1,000,000 | 1% |
 
-
-
-**release rule**
+**release rule  
+**
 
 The part of the team began to be released linearly 3 months after it went online, with 0.2% released every month, for a total of 48 months.
 
