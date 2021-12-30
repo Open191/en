@@ -22,6 +22,7 @@
 * [Evolution \(Trailer\)](game-play/evolution-trailer.md)
 * [Breeding \(Trailer\)](game-play/breeding.md)
 * [Day Care \(Trailer\)](game-play/day-care.md)
+* [Wilderness Exploration\(Trailer\)](game-play/wilderness-explorationtrailer.md)
 
 ## ELF GUIDE
 
