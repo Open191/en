@@ -12,13 +12,13 @@ Step 3: Confirm the training and stake the corresponding ELFT Start training !
 
 Training Income
 
-Common elf: Stake 100ELFT to start a 1-day training, and you can get 2.5ELFT per training.
+white elf: Stake 100ELFT to start a 1-day training, and you can get 2.5ELFT per training.
 
-Rare elf: Stake 350ELFT to start a 1-day training, and you can get 10ELFT per training.
+blue elf: Stake 350ELFT to start a 1-day training, and you can get 10ELFT per training.
 
-Epic elf: Stake 450ELFT to start a 1-day training, and you can get 15ELFT per training.
+yellow elf: Stake 450ELFT to start a 1-day training, and you can get 15ELFT per training.
 
-Legendary elf: Stake 500ELFT to start a 1-day training, and you can get 20ELFT per training.
+green elf: Stake 500ELFT to start a 1-day training, and you can get 20ELFT per training.
 
-Myth elf: Stake 1000ELFT to start a 2-day training, and you can get 50ELFT per training.
+purple elf: Stake 1000ELFT to start a 2-day training, and you can get 50ELFT per training.
 
