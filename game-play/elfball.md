@@ -1,6 +1,6 @@
 # Elfball
 
-![](../.gitbook/assets/英文.png)
+![](/assets/import1.png)
 
 Elfball is a collection of elf game items, and the process has random properties. Depending on the nature of the game, you will get elf with different rarity levels.
 
