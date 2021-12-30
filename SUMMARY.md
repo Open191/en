@@ -23,6 +23,7 @@
 * [Breeding \(Trailer\)](game-play/breeding.md)
 * [Day Care \(Trailer\)](game-play/day-care.md)
 * [Wilderness Exploration\(Trailer\)](game-play/wilderness-explorationtrailer.md)
+* [Land Sale\(Trailer\)](game-play/land-saletrailer.md)
 
 ## ELF GUIDE
 
