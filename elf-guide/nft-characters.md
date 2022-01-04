@@ -13,7 +13,7 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 | Type      | Value       |
 | --------- | ----------- |
 | Type      | Fire/Flying |
-| Rarity    | Myth        |
+| Rarity    | UR          |
 | Height    | 3.8m        |
 | Weight    | 199.0kg     |
 | Evolution | Unevolved   |
@@ -49,7 +49,7 @@ It is covered with a light purple. It has a pair of small black eyes, and its bo
 | Type      | Value     |
 | --------- | --------- |
 | Type      | Normal    |
-| Rarity    | Legendary |
+| Rarity    | SSR       |
 | Height    | 0.3m      |
 | Weight    | 4.0kg     |
 | Evolution | Unevolved |
@@ -85,7 +85,7 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 | Type      | Value                 |
 | --------- | --------------------- |
 | Type      | Psychic               |
-| Rarity    | Legendary             |
+| Rarity    | SSR                   |
 | Height    | 0.9m                  |
 | Weight    | 19.5kg                |
 | Evolution | Abra→Kadabra→Alakazam |
@@ -121,7 +121,7 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 | Type      | Value                 |
 | --------- | --------------------- |
 | Type      | Ghost/Poison          |
-| Rarity    | Epic                  |
+| Rarity    | SR                    |
 | Height    | 1.3m                  |
 | Weight    | 0.1kg                 |
 | Evolution | Gastly→Haunter→Gengar |
@@ -157,7 +157,7 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 | Type      | Value                      |
 | --------- | -------------------------- |
 | Type      | Rock/Ground                |
-| Rarity    | Epic                       |
+| Rarity    | SR                         |
 | Height    | 0.6m                       |
 | Weight    | 72.0kg                     |
 | Evolution | Larvitar→Pupitar→Tyranitar |
@@ -193,7 +193,7 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 | Type      | Value          |
 | --------- | -------------- |
 | Type      | Ground         |
-| Rarity    | Epic           |
+| Rarity    | SR             |
 | Height    | 0.4m           |
 | Weight    | 6.5kg          |
 | Evolution | Cubone→Marowak |
@@ -229,7 +229,7 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 | Type      | Value                      |
 | --------- | -------------------------- |
 | Type      | Grass/Poison               |
-| Rarity    | Rare                       |
+| Rarity    | R                          |
 | Height    | 0.7m                       |
 | Weight    | 6.9kg                      |
 | Evolution | Bulbasaur→Ivysaur→Venusaur |
@@ -265,7 +265,7 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 | Type      | Value                        |
 | --------- | ---------------------------- |
 | Type      | Water                        |
-| Rarity    | Rare                         |
+| Rarity    | R                            |
 | Height    | 0.5m                         |
 | Weight    | 9.0kg                        |
 | Evolution | Squirtle→Wartortle→Blastoise |
@@ -301,7 +301,7 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 | Type      | Value                           |
 | --------- | ------------------------------- |
 | Type      | Fire                            |
-| Rarity    | Rare                            |
+| Rarity    | R                               |
 | Height    | 0.6m                            |
 | Weight    | 8.5kg                           |
 | Evolution | Charmander→Charmeleon→Charizard |
@@ -373,7 +373,7 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 | Type      | Value                       |
 | --------- | --------------------------- |
 | Type      | Water                       |
-| Rarity    | Common                      |
+| Rarity    | N                           |
 | Height    | 0.6m                        |
 | Weight    | 12.4kg                      |
 | Evolution | Poliwag→Poliwhirl→Poliwrath |
@@ -409,7 +409,7 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 | Type      | Value                            |
 | --------- | -------------------------------- |
 | Type      | Water                            |
-| Rarity    | Common                           |
+| Rarity    | N                                |
 | Height    | 0.6m                             |
 | Weight    | 15.0kg                           |
 | Evolution | Goldeen→SeakingShellder→Cloyster |
@@ -447,15 +447,13 @@ The hard shell can bounce off any attack, and it will be very vulnerable if it i
 | Type      | Value             |
 | --------- | ----------------- |
 | Type      | Water             |
-| Rarity    | Common            |
+| Rarity    | N                 |
 | Height    | 0.3m              |
 | Weight    | 4.0kg             |
 | Evolution | Shellder→Cloyster |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
-
-
 | Type            | value |
 | --------------- | ----- |
 | HP              | 30    |
@@ -485,7 +483,7 @@ It started activities after the sun went down. Because its skin is so thin that 
 | Type      | Value               |
 | --------- | ------------------- |
 | Type      | Poison/Flying       |
-| Rarity    | Common              |
+| Rarity    | N                   |
 | Height    | 0.8m                |
 | Weight    | 7.5kg               |
 | Evolution | Zubat→Golbat→Crobat |
@@ -521,7 +519,7 @@ The electromagnetic waves released by the components on the left and right shiel
 | Type      | Value                        |
 | --------- | ---------------------------- |
 | Type      | Electric/Steel               |
-| Rarity    | Common                       |
+| Rarity    | N                            |
 | Height    | 0.3m                         |
 | Weight    | 6.0kg                        |
 | Evolution | Magnemite→Magneton→Magnezone |
@@ -536,8 +534,6 @@ The electromagnetic waves released by the components on the left and right shiel
 | Special Attack  | 95    |
 | Special Defense | 55    |
 | Speed           | 45    |
-
-
 {% endtab %}
 
 {% tab title="Breeding" %}
