@@ -4,7 +4,7 @@ Players can purchase fairy balls to randomly acquire elves. There are currently 
 
 ### Ho-Oh <a href="#ho-oh" id="ho-oh"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FecBou0FZUKSq9zpptGix%2FHo-Oh.png?alt=media\&token=e9da84f4-5314-4c01-b051-83b445dc47fc)
+![](../.gitbook/assets/Ho-Oh.png)
 
 It has the magical power to resurrect the dead. A rainbow will form where it flies. Legend has it that those who see it will get eternal happiness. Before the Bell Tower (the predecessor of the Charred Tower) was burnt down, it perched on the top of the Bell Tower. Presumably, it has been flying in the sky since then, looking for people with pure hearts.
 
@@ -40,7 +40,7 @@ It has the magical power to resurrect the dead. A rainbow will form where it fli
 
 ### Ditto <a href="#ditto" id="ditto"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FS0ckMgkq83zNfTlrTPYe%2F%E7%99%BE%E5%8F%98%E6%80%AA.png?alt=media\&token=c3e90f62-eb58-4330-8794-4104a9b09764)
+![](../.gitbook/assets/Ditto.png)
 
 It is covered with a light purple. It has a pair of small black eyes, and its body is soft and flexible. Turn into stone when sleeping to prevent being attacked. When the two met at the same time, they moved more vigorously than usual in order to be exactly the same as the other. It can transform itself into the opponent's appearance by changing its own cell combination and copying all the cell combinations of the copied object, and can even use the opponent's skills.
 
@@ -76,7 +76,7 @@ It is covered with a light purple. It has a pair of small black eyes, and its bo
 
 ### Abra <a href="#abra" id="abra"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FLqapxbVjUQj5qvEX2bZX%2FAbra.png?alt=media\&token=bcdd4dd4-fbb4-40ee-b446-47724555beac)
+![](../.gitbook/assets/Abra.png)
 
 It can sense danger through a telepathic radar. When it does, it teleports to a safe location. However, it sometimes becomes panicked if it wakes in an unknown location. By hypnotizing itself, it is able to teleport itself even while sleeping. It can use other extrasensory abilities while sleeping as well and can even teleport into the treetops to pick and eat berries. The deeper sleeps, the farther it teleports. Due to the strain of its telepathic powers, however, it sleeps 18 hours each day. If it fails to rest long enough, it will become unable to use its powers. The contents in it's dream can affect its powers.
 
@@ -112,7 +112,7 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 ### Gastly <a href="#gastly" id="gastly"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FrH4McnT11XfrmM6vcMLX%2F%E9%AC%BC%E6%96%AF.png?alt=media\&token=fe8ff9ff-c403-4026-be43-2e19a3dfc454)
+![](../.gitbook/assets/Gastly.png)
 
 It can make an Indian elephant fall in two seconds by enclosing it with poisonous gas. In some occasional situations, it will gain the ability to speak like a human and be able to transform its own form. It can communicate with telepathy, create phantoms, transform into a girl or an old woman, and communicate with the soul of the dead.
 
@@ -148,7 +148,7 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 
 ### Larvitar <a href="#larvitar" id="larvitar"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F4GXJRTu1dVA9QStzTRLc%2FLarvitar.png?alt=media\&token=0e8bb61e-f974-458f-8e73-bad3c723766c)
+![](../.gitbook/assets/Larvitar.png)
 
 It grows by consuming soil and will enter its pupal stage upon eating an entire mountain's worth of earth. Larvitar usually lives in mountains, hills, and caves.
 
@@ -184,7 +184,7 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 
 ### Cubone <a href="#cubone" id="cubone"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FtXWld8nBW0SzRswU5R95%2FCubone.png?alt=media\&token=e1fe9007-30f0-4fa1-b20b-9af496975a8e)
+![](../.gitbook/assets/Cubone.png)
 
 It has been wearing the skull of his deceased mother, so it is not clear what his true appearance is. The skull worn in sadness and loneliness will swing and make a short-term sad sound. It is said that it is related to the bag dragon, and it is suspected to be the baby of the bag dragon.
 
@@ -220,7 +220,7 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 
 ### Bulbasaur <a href="#bulbasaur" id="bulbasaur"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F9WRxicY5x3fLDCq8h4Kn%2F%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png?alt=media\&token=2945ac3d-cb2e-47f6-86b0-5bb46f7c3143)
+![](../.gitbook/assets/Bulbasaur.png)
 
 Its most notable feature is the bulbous seed behind it. There is a symbiotic relationship between the seed and the frog. Since its birth, the seed and the body have grown together.
 
@@ -256,7 +256,7 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 
 ### Squirtle <a href="#squirtle" id="squirtle"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F5wFtSkTazabQ1VVRPfHd%2F%E6%9D%B0%E5%B0%BC%E9%BE%9F.png?alt=media\&token=836694b4-0663-4027-b63f-ba03d12dcd45)
+![](../.gitbook/assets/Squirtle.png)
 
 It is a natural swimmer, but due to its small size, it is only suitable for transporting small items. Although its chin looks very inconspicuous, it can learn to bite. Its head is small, but it can use rocket head mallets.
 
@@ -290,9 +290,7 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 {% endtab %}
 {% endtabs %}
 
-### Charmander <a href="#charmander" id="charmander"></a>
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FH7Yb7wwWXLR3K2bHAyAd%2F%E5%B0%8F%E7%81%AB%E9%BE%99.png?alt=media\&token=211dfa43-faf8-400e-a17e-7018f5ce33b9)
+### Ch <a href="#charmander" id="charmander"></a>
 
 The flame on its tail can express its emotions. When it is happy, the flame will flicker. If it is provoked, the flame will burn violently. When he was born, there was a fire burning on his tail. When the fire on the tail goes out, its life is over.
 
@@ -328,7 +326,7 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 
 ### Pichu <a href="#pichu" id="pichu"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FXbPOnPwuFpIGSrcvpWWT%2Fpichu.png?alt=media\&token=2276f238-b06c-434e-a4c7-8ad95c089ab7)
+![](../.gitbook/assets/pichu.png)
 
 It is usually found in groups and often touch tails with other Pichu as a show of courage, creating a shower of sparks that can make them cry. It is inept at storing electricity and may discharge if amused, startled, or subjected to shock. However, it cannot discharge without being shocked itself. Charging up is more easily done on days of dryness or with thunderclouds. The crackling of static electricity generated by Pichu is audible. It can zap an adult human but will surprise itself if it does.
 
@@ -364,7 +362,7 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 
 ### Poliwag <a href="#poliwag" id="poliwag"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FZk6wTG4KLwluBg1g8uFV%2F%E8%9A%8A%E9%A6%99%E8%9D%8C%E8%9A%AA.png?alt=media\&token=026096aa-9824-4407-afa8-31deeb9de35d)
+![](../.gitbook/assets/Poliwag.png)
 
 It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its tail makes it a powerful swimmer. It loves to waddle on land despite the dangers. However, it will quickly return back into the water should it see danger. It cannot walk on land well unless trained everyday.
 
@@ -400,7 +398,7 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 
 ### Goldeen <a href="#goldeen" id="goldeen"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FLSia6rQHplovfcVLOkiy%2F%E8%A7%92%E9%87%91%E9%B1%BC.png?alt=media\&token=7092c768-6ce1-462d-a579-5c770afbea79)
+![](../.gitbook/assets/Goldeen.png)
 
 The unicorn’s attack is very strong. I like swimming in rivers or ponds very much. But if it is put in the water tank, even the thick glass will have to be broken with a corner to escape.
 
@@ -436,9 +434,7 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 
 ### Shellder <a href="#shellder" id="shellder"></a>
 
-​​
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FFd7pGewgfScg23gLRpSt%2F%E5%A4%A7%E8%88%8C%E8%B4%9D.png?alt=media\&token=545ebe92-8496-4aa6-a412-ff86a3a6a3dd)
+![](../.gitbook/assets/Shellder.png)
 
 The hard shell can bounce off any attack, and it will be very vulnerable if it is attacked when the shell is opened. At night, I dig a hole in the sand on the seabed with my big tongue and sleep in it. Although sleeping with the shell closed, the tongue sticks out.
 
@@ -474,7 +470,7 @@ The hard shell can bounce off any attack, and it will be very vulnerable if it i
 
 ### Zubat <a href="#zubat" id="zubat"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2F8CCO5BJuzoGcyeE2vxe8%2F%E8%B6%85%E9%9F%B3%E8%9D%A0.png?alt=media\&token=3c63e5b1-e454-4c9e-867f-33dfad36dc8a)
+![](../.gitbook/assets/Zubat.png)
 
 It started activities after the sun went down. Because its skin is so thin that it burns as long as it is exposed to the sun, it sleeps in the dark during the day. When the weather gets cold, they will huddle together to keep warm.
 
@@ -510,7 +506,7 @@ It started activities after the sun went down. Because its skin is so thin that 
 
 ### Magnemite <a href="#magnemite" id="magnemite"></a>
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FuTeu369FrtM0GvfiQcCh%2F%E5%B0%8F%E7%A3%81%E6%80%AA.png?alt=media\&token=f5ab82d1-af10-48a8-b941-f9247fd2f83b)
+![](../.gitbook/assets/Magnemite.png)
 
 The electromagnetic waves released by the components on the left and right shield the gravity, thus floating in the air. The parts on the left and right are powerful magnets. It can emit strong magnetic force enough to attract iron within a radius of 100 meters.
 
