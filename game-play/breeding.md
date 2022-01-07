@@ -30,7 +30,7 @@ Only one fairy egg can be produced per breeding. The fairy egg belongs to the fe
 
 #### Breeding fee
 
-| Breeding times | Fee（ELFT） | Fee（EP） |
+| Breeding Times | Fee（ELFT） | Fee（EP） |
 | -------------- | --------- | ------- |
 | 1              | 80        | 1000    |
 | 2              | 160       | 1500    |
@@ -48,7 +48,7 @@ The incubation cycle is calculated based on the female's rarity (multiply with D
 
 According to the number of births, plus reproductive loss. Add 2 days for each child. For example, second birth loss plus 2 days.
 
-| Rarity | Incubation cycle |
+| Rarity | Incubation Cycle |
 | ------ | ---------------- |
 | N      | 14 Days          |
 | R      | 13 Days          |

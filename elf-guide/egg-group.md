@@ -1,8 +1,8 @@
-# Egg group
+# Egg Group
 
 Egg group is a classification method in the breeding and breeding of elves, and only elves in the same egg group can find the possibility of elves. Most of the elves in the same evolutionary chain are in the same egg group. The egg group is divided into the following 15 types of characteristics:
 
-| Egg group  | Characteristic                                                                                           |
+| Egg Group  | Characteristic                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
 | Monster    | Elf in this group are kaiju-like appearance and nature.                                                  |
 | Water 1    | Elf in this group are amphibious in nature.                                                              |
