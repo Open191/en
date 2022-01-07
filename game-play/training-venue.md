@@ -20,6 +20,6 @@ SR: Stake 450ELFT to start a 1-day training, and you can get 15ELFT per training
 
 SSR: Stake 500ELFT to start a 1-day training, and you can get 20ELFT per training.
 
-UR: Stake 1000ELFT to start a 2-day training, and you can get 50ELFT per training.
+UR: Stake 1000ELFT to start a 1-day training, and you can get 50ELFT per training.
 
 Training income will gradually decrease with the increase in the number of elves and the increase in later game scenes
