@@ -12,14 +12,14 @@ Step 3: Confirm the training and stake the corresponding ELFT Start training !
 
 Training Income
 
-N: Stake 100ELFT to start a 1-day training, and you can get 2.5ELFT per training.
+N: Stake 100ELFT to start a 1-day training, and you can get 2.5ELFT + 10EP per training.
 
-R: Stake 350ELFT to start a 1-day training, and you can get 10ELFT per training.
+R: Stake 350ELFT to start a 1-day training, and you can get 10ELFT + 10EP per training.
 
-SR: Stake 450ELFT to start a 1-day training, and you can get 15ELFT per training.
+SR: Stake 450ELFT to start a 1-day training, and you can get 15ELFT + 10EP per training.
 
-SSR: Stake 500ELFT to start a 1-day training, and you can get 20ELFT per training.
+SSR: Stake 500ELFT to start a 1-day training, and you can get 20ELFT + 10EP per training.
 
-UR: Stake 1000ELFT to start a 1-day training, and you can get 50ELFT per training.
+UR: Stake 1000ELFT to start a 1-day training, and you can get 50ELFT + 10EP per training.
 
 Training income will gradually decrease with the increase in the number of elves and the increase in later game scenes

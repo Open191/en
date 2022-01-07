@@ -15,10 +15,10 @@
 
 * [Elfball](game-play/elfball.md)
 * [Training Venue](game-play/training-venue.md)
+* [Breeding](game-play/breeding.md)
 * [Duel Field (Trailer)](game-play/duel-field.md)
 * [Market (Trailer)](game-play/market.md)
 * [Evolution (Trailer)](game-play/evolution-trailer.md)
-* [Breeding (Trailer)](game-play/breeding.md)
 * [Day Care (Trailer)](game-play/day-care.md)
 * [Wilderness Exploration(Trailer)](game-play/wilderness-explorationtrailer.md)
 * [Land Sale(Trailer)](game-play/land-saletrailer.md)

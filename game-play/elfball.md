@@ -12,12 +12,10 @@ There are 8,000 Creation pokeballs, 4,000 of which cost 0.2 BNB each, and up to 
 
 **The rarity level is** UR > SSR > SR > R > N.
 
-UR：Ultra Rare
-
-SSR：Superior Super Rare
-
-SR：Super Rare
-
-R：Rare
-
-N：Normal
+| Abbreviation | Full Name           |
+| ------------ | ------------------- |
+| N            | Normal              |
+| R            | Rare                |
+| SR           | Super Rare          |
+| SSR          | Superior Super Rare |
+| UR           | Ultra Rare          |
