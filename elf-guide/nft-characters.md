@@ -290,7 +290,9 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 {% endtab %}
 {% endtabs %}
 
-### Ch <a href="#charmander" id="charmander"></a>
+### Charmander <a href="#charmander" id="charmander"></a>
+
+![](../.gitbook/assets/Charmander.png)
 
 The flame on its tail can express its emotions. When it is happy, the flame will flicker. If it is provoked, the flame will burn violently. When he was born, there was a fire burning on his tail. When the fire on the tail goes out, its life is over.
 

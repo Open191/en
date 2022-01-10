@@ -1,6 +1,6 @@
 # Type
 
-![](../.gitbook/assets/属性英文.png)
+![](../.gitbook/assets/type.png)
 
 The elves are divided into 18 type according to their type, and they can have one or two typ. For example,Charmander is a Fire type, while Bulbasaur is both a Grass type and a Poison type. There is no dual-type elf with the same first type as the second type (unless it is an error elf).
 
