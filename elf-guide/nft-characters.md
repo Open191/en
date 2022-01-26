@@ -447,7 +447,7 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 ### Piplup <a href="#larvitar" id="larvitar"></a>
 
-![](../.gitbook/assets/Larvitar.png)
+![](../.gitbook/assets/Piplup.png)
 
 It is an adept hunter that tears at its prey with its scythes. Thanks to its green coloration, it can camouflage itself well in the grasslands and forests where it lives. Humans rarely encounter wild it in these areas, however. Said to be like a ninja, It can move so quickly that it cannot be followed, increasing the effectiveness of its scythes. It maintains the sharpness of its blades through battle as well as by cutting through hard objects, such as trees; it can cut down a massive tree with just a single slice. The anime has shown that wild It form swarms with a single leader chosen through combat. When a challenger successfully defeats a current leader and replaced it, the defeated leader is exiled from the swarm. It has also been shown that It becomes aggressive when faced with the color red.
 
@@ -545,7 +545,7 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 
 ### Caterpie <a href="#goldeen" id="goldeen"></a>
 
-![](../.gitbook/assets/Goldeen.png)
+![](../.gitbook/assets/Caterpie.png)
 
 As it grow and develop over time, it will shed its skin many times before finally cocooning itself in thick silk. It has a voracious appetite, which drives it to eat a hundred leaves a day. It will even eat leaves bigger than itself. According to Pokémon Adventures, its favorite food is the Vermilion flower. It lives in temperate forests and jungles.
 
