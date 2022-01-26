@@ -669,138 +669,27 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 1
 
-### Larvitar <a href="#larvitar" id="larvitar"></a>
+### Piplup <a href="#larvitar" id="larvitar"></a>
 
 ![](../.gitbook/assets/Larvitar.png)
 
-It grows by consuming soil and will enter its pupal stage upon eating an entire mountain's worth of earth. Larvitar usually lives in mountains, hills, and caves.
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                      |
-| --------- | -------------------------- |
-| Type      | Rock/Ground                |
-| Rarity    | SR                         |
-| Height    | 0.6m                       |
-| Weight    | 72.0kg                     |
-| Evolution | Larvitar→Pupitar→Tyranitar |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 50    |
-| Attach          | 64    |
-| Defense         | 50    |
-| Special Attack  | 45    |
-| Special Defense | 50    |
-| Speed           | 41    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Monster           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type                      | Value |
-| ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | Value             |
-| --------- | ----------------- |
-| Egg Group | Mineral           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-### &#x20;<a href="#cubone" id="cubone"></a>
-
-### Squirtle <a href="#squirtle" id="squirtle"></a>
-
-![](../.gitbook/assets/Squirtle.png)
-
-It is a natural swimmer, but due to its small size, it is only suitable for transporting small items. Although its chin looks very inconspicuous, it can learn to bite. Its head is small, but it can use rocket head mallets.
+It is an adept hunter that tears at its prey with its scythes. Thanks to its green coloration, it can camouflage itself well in the grasslands and forests where it lives. Humans rarely encounter wild it in these areas, however. Said to be like a ninja, It can move so quickly that it cannot be followed, increasing the effectiveness of its scythes. It maintains the sharpness of its blades through battle as well as by cutting through hard objects, such as trees; it can cut down a massive tree with just a single slice. The anime has shown that wild It form swarms with a single leader chosen through combat. When a challenger successfully defeats a current leader and replaced it, the defeated leader is exiled from the swarm. It has also been shown that It becomes aggressive when faced with the color red.
 
 {% tabs %}
 {% tab title="Basic Data" %}
 | Type      | Value                        |
 | --------- | ---------------------------- |
 | Type      | Water                        |
-| Rarity    | R                            |
-| Height    | 0.5m                         |
-| Weight    | 9.0kg                        |
-| Evolution | Squirtle→Wartortle→Blastoise |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 44    |
-| Attach          | 48    |
-| Defense         | 65    |
-| Special Attack  | 50    |
-| Special Defense | 64    |
-| Speed           | 43    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value                        |
-| --------- | ---------------------------- |
-| Egg Group | Monster/Water 1Monster/Grass |
-| Gender    | Male : Female=1:1            |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Rarity    | GR                           |
+| Height    | 0.4m                         |
+| Weight    | 5.2kg                        |
+| Evolution | Piplup → Prinplup → Empoleon |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
+| AKT(Attack Power )        |       |
 | Hit Points (HP)           |       |
 | POT (Potential)           |       |
 | STA (Stamina)             |       |
@@ -824,12 +713,12 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Water             |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
 
-1
+
 
 ### Poliwag <a href="#poliwag" id="poliwag"></a>
 
@@ -869,19 +758,19 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                         |
+| --------- | ----------------------------- |
+| Type      | Water                         |
+| Rarity    | N                             |
+| Height    | 0.6m                          |
+| Weight    | 12.4kg                        |
+| Evolution | Poliwag→ Poliwhirl→ Poliwrath |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
+|  AKT(Attack Power)        |       |
 | Hit Points (HP)           |       |
 | POT (Potential)           |       |
 | STA (Stamina)             |       |
@@ -910,58 +799,28 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 {% endtab %}
 {% endtabs %}
 
-### Goldeen <a href="#goldeen" id="goldeen"></a>
+### Caterpie <a href="#goldeen" id="goldeen"></a>
 
 ![](../.gitbook/assets/Goldeen.png)
 
-The unicorn’s attack is very strong. I like swimming in rivers or ponds very much. But if it is put in the water tank, even the thick glass will have to be broken with a corner to escape.
+As it grow and develop over time, it will shed its skin many times before finally cocooning itself in thick silk. It has a voracious appetite, which drives it to eat a hundred leaves a day. It will even eat leaves bigger than itself. According to Pokémon Adventures, its favorite food is the Vermilion flower. It lives in temperate forests and jungles.
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Water                            |
-| Rarity    | N                                |
-| Height    | 0.6m                             |
-| Weight    | 15.0kg                           |
-| Evolution | Goldeen→SeakingShellder→Cloyster |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 45    |
-| Attach          | 67    |
-| Defense         | 60    |
-| Special Attack  | 35    |
-| Special Defense | 50    |
-| Speed           | 63    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Water 2           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                         |
+| --------- | ----------------------------- |
+| Type      | Electric                      |
+| Rarity    | N                             |
+| Height    | 0.3m                          |
+| Weight    | 2.9kg                         |
+| Evolution | Caterpie→ Metapod→ Butterfree |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
+| AKT( Attack Power)        |       |
+|  HP(Hit Points)           |       |
 | POT (Potential)           |       |
 | STA (Stamina)             |       |
 | _+STA_                    |       |
@@ -984,89 +843,10 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Bug               |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
 
-### Shellder <a href="#shellder" id="shellder"></a>
-
-![](../.gitbook/assets/Shellder.png)
-
-The hard shell can bounce off any attack, and it will be very vulnerable if it is attacked when the shell is opened. At night, I dig a hole in the sand on the seabed with my big tongue and sleep in it. Although sleeping with the shell closed, the tongue sticks out.
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value             |
-| --------- | ----------------- |
-| Type      | Water             |
-| Rarity    | N                 |
-| Height    | 0.3m              |
-| Weight    | 4.0kg             |
-| Evolution | Shellder→Cloyster |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 30    |
-| Attach          | 65    |
-| Defense         | 100   |
-| Special Attack  | 45    |
-| Special Defense | 25    |
-| Speed           | 40    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Water 3           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type                      | Value |
-| ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | Value             |
-| --------- | ----------------- |
-| Egg Group | Mineral           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-1
+### &#x20;<a href="#shellder" id="shellder"></a>
 
