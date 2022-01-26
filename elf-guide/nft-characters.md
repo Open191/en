@@ -1,76 +1,77 @@
 # NFT Characters
 
+
+
 Players can purchase fairy balls to randomly acquire elves. There are currently 15 types of Genesis elves, covering 15 egg groups. New types of elf will be created in the future as the game is updated.
 
 ### Ho-Oh <a href="#ho-oh" id="ho-oh"></a>
 
 ![](../.gitbook/assets/Ho-Oh.png)
 
-It has the magical power to resurrect the dead. A rainbow will form where it flies. Legend has it that those who see it will get eternal happiness. Before the Bell Tower (the predecessor of the Charred Tower) was burnt down, it perched on the top of the Bell Tower. Presumably, it has been flying in the sky since then, looking for people with pure hearts.
+It has a mythical power to resurrect the dead. It was the only known Pokémon to learn Sacred Fire, its former signature move. It is said that when it flies its huge wings create bright, colorful rainbows. The rare few who bear witness to it is promised eternal happiness.
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value       |
-| --------- | ----------- |
-| Type      | Fire/Flying |
-| Rarity    | UR          |
-| Height    | 3.8m        |
-| Weight    | 199.0kg     |
-| Evolution | Unevolved   |
+| Type      | Value                      |
+| --------- | -------------------------- |
+| Type      | Fire                       |
+| Rarity    | UR                         |
+| Height    | 3.8m                       |
+| Weight    | 199.0kg                    |
+| Evolution | Ho-Oh → Ho-oh-X → Ho-oh--X |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 106   |
-| Attach          | 130   |
-| Defense         | 90    |
-| Special Attack  | 110   |
-| Special Defense | 154   |
-| Speed           | 110   |
+| Type                      | value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        | 22226 |
+| Hit Points (HP)           | 15141 |
+| POT (Potential)           | 80    |
+| STA (Stamina)             | 1371  |
+| _+STA_                    | 121   |
+| STR (Strength)            | 1338  |
+| +_STR_                    | 146   |
+| AGI (Agility)             | 2537  |
+| _+AGI_                    | 178.6 |
+| INT (Intelligence)        | 2433  |
+| _+INT_                    | 146   |
+| DAM (Damage)              | 5372  |
+| ADF (Magic Defense)       | 2686  |
+| ARM (Armor)               | 1477  |
+| CRE (Critical Resistance) | 739   |
+| CRI (Critical)            | 1402  |
+| EVA (Evasion)             | 1075  |
+| HIT                       | 757   |
+| SPE (Speed)               | 2801  |
 {% endtab %}
 
 {% tab title="Breeding" %}
-| Type      | value          |
-| --------- | -------------- |
-| Egg Group | AlphaDitto     |
-| Gender    | Gender unknown |
+| Type      | value             |
+| --------- | ----------------- |
+| Egg Group | Alpha             |
+| Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
 
-### Ditto <a href="#ditto" id="ditto"></a>
+### Magnemite <a href="#magnemite" id="magnemite"></a>
 
-![](../.gitbook/assets/Ditto.png)
+![](../.gitbook/assets/Magnemite.png)
 
-It is covered with a light purple. It has a pair of small black eyes, and its body is soft and flexible. Turn into stone when sleeping to prevent being attacked. When the two met at the same time, they moved more vigorously than usual in order to be exactly the same as the other. It can transform itself into the opponent's appearance by changing its own cell combination and copying all the cell combinations of the copied object, and can even use the opponent's skills.
+The electromagnetic waves released by the components on the left and right shield the gravity, thus floating in the air. The parts on the left and right are powerful magnets. It can emit strong magnetic force enough to attract iron within a radius of 100 meters.
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value     |
-| --------- | --------- |
-| Type      | Normal    |
-| Rarity    | SSR       |
-| Height    | 0.3m      |
-| Weight    | 4.0kg     |
-| Evolution | Unevolved |
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
 {% endtab %}
 
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 48    |
-| Attach          | 48    |
-| Defense         | 48    |
-| Special Attack  | 48    |
-| Special Defense | 48    |
-| Speed           | 48    |
-{% endtab %}
+{% tab title="Untitled" %}
 
-{% tab title="Breeding" %}
-| Type      | value          |
-| --------- | -------------- |
-| Egg Group | Ditto          |
-| Gender    | Gender unknown |
 {% endtab %}
 {% endtabs %}
 
@@ -506,38 +507,3 @@ It started activities after the sun went down. Because its skin is so thin that 
 {% endtab %}
 {% endtabs %}
 
-### Magnemite <a href="#magnemite" id="magnemite"></a>
-
-![](../.gitbook/assets/Magnemite.png)
-
-The electromagnetic waves released by the components on the left and right shield the gravity, thus floating in the air. The parts on the left and right are powerful magnets. It can emit strong magnetic force enough to attract iron within a radius of 100 meters.
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                        |
-| --------- | ---------------------------- |
-| Type      | Electric/Steel               |
-| Rarity    | N                            |
-| Height    | 0.3m                         |
-| Weight    | 6.0kg                        |
-| Evolution | Magnemite→Magneton→Magnezone |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 25    |
-| Attach          | 35    |
-| Defense         | 70    |
-| Special Attack  | 95    |
-| Special Defense | 55    |
-| Speed           | 45    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Mineral           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
