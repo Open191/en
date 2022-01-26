@@ -22,7 +22,7 @@ It has a mythical power to resurrect the dead. It was the only known Pokémon to
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
-| Type                      | value |
+| Type                      | Value |
 | ------------------------- | ----- |
 | Attack Power (AKT)        | 22226 |
 | Hit Points (HP)           | 15141 |
@@ -46,7 +46,7 @@ It has a mythical power to resurrect the dead. It was the only known Pokémon to
 {% endtab %}
 
 {% tab title="Breeding" %}
-| Type      | value             |
+| Type      | Value             |
 | --------- | ----------------- |
 | Egg Group | Alpha             |
 | Gender    | Male : Female=1:1 |
@@ -59,7 +59,7 @@ It has a mythical power to resurrect the dead. It was the only known Pokémon to
 
 The electromagnetic waves released by the components on the left and right shield the gravity, thus floating in the air. The parts on the left and right are powerful magnets. It can emit strong magnetic force enough to attract iron within a radius of 100 meters.
 
-
+1
 
 {% tabs %}
 {% tab title="Basic Data" %}
@@ -104,6 +104,8 @@ The electromagnetic waves released by the components on the left and right shiel
 {% endtab %}
 {% endtabs %}
 
+1
+
 ### Magnemite <a href="#magnemite" id="magnemite"></a>
 
 ### Abra <a href="#abra" id="abra"></a>
@@ -138,6 +140,49 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 | Type      | value             |
 | --------- | ----------------- |
 | Egg Group | Human-Like        |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -178,6 +223,49 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 ### Larvitar <a href="#larvitar" id="larvitar"></a>
 
 ![](../.gitbook/assets/Larvitar.png)
@@ -210,6 +298,49 @@ It grows by consuming soil and will enter its pupal stage upon eating an entire 
 | Type      | value             |
 | --------- | ----------------- |
 | Egg Group | Monster           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -250,6 +381,49 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 ### Bulbasaur <a href="#bulbasaur" id="bulbasaur"></a>
 
 ![](../.gitbook/assets/Bulbasaur.png)
@@ -282,6 +456,49 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 | Type      | value             |
 | --------- | ----------------- |
 | Egg Group | Monster/Grass     |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -322,6 +539,49 @@ It is a natural swimmer, but due to its small size, it is only suitable for tran
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 ### Charmander <a href="#charmander" id="charmander"></a>
 
 ![](../.gitbook/assets/Charmander.png)
@@ -354,6 +614,49 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 | Type      | value             |
 | --------- | ----------------- |
 | Egg Group | Monster/Dragon    |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -394,6 +697,49 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 ### Poliwag <a href="#poliwag" id="poliwag"></a>
 
 ![](../.gitbook/assets/Poliwag.png)
@@ -426,6 +772,49 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 | Type      | value             |
 | --------- | ----------------- |
 | Egg Group | Water 1           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -466,6 +855,49 @@ The unicorn’s attack is very strong. I like swimming in rivers or ponds very m
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 ### Shellder <a href="#shellder" id="shellder"></a>
 
 ![](../.gitbook/assets/Shellder.png)
@@ -502,6 +934,49 @@ The hard shell can bounce off any attack, and it will be very vulnerable if it i
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
 ### Zubat <a href="#zubat" id="zubat"></a>
 
 ![](../.gitbook/assets/Zubat.png)
@@ -534,6 +1009,49 @@ It started activities after the sun went down. Because its skin is so thin that 
 | Type      | value             |
 | --------- | ----------------- |
 | Egg Group | Flying            |
+| Gender    | Male : Female=1:1 |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Basic Data" %}
+| Type      | Value                            |
+| --------- | -------------------------------- |
+| Type      | Electric                         |
+| Rarity    | GR                               |
+| Height    | 0.3m                             |
+| Weight    | 6.0kg                            |
+| Evolution | Magnemite → Magneton → Magnezone |
+{% endtab %}
+
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
+
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
