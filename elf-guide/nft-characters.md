@@ -12,19 +12,19 @@ It has a mythical power to resurrect the dead. It was the only known Pokémon to
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                      |
-| --------- | -------------------------- |
-| Type      | Fire                       |
-| Rarity    | UR                         |
-| Height    | 3.8m                       |
-| Weight    | 199.0kg                    |
-| Evolution | Ho-Oh → Ho-oh-X → Ho-oh--X |
+| Type      | Value                   |
+| --------- | ----------------------- |
+| Type      | Fire                    |
+| Rarity    | UR                      |
+| Height    | 3.8m                    |
+| Weight    | 199.0kg                 |
+| Evolution | Ho-Oh→ Ho-oh-X→ Ho-oh-Y |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        | 22226 |
+| AKT (Attack Power)        | 22226 |
 | Hit Points (HP)           | 15141 |
 | POT (Potential)           | 80    |
 | STA (Stamina)             | 1371  |
@@ -61,37 +61,37 @@ The electromagnetic waves released by the components on the left and right shiel
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                          |
+| --------- | ------------------------------ |
+| Type      | Electric                       |
+| Rarity    | GR                             |
+| Height    | 0.3m                           |
+| Weight    | 6.0kg                          |
+| Evolution | Magnemite→ Magneton→ Magnezone |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 8087  |
+| HP (Hit Points )          | 8100  |
+| POT (Potential)           | 32    |
+| STA (Stamina)             | 810   |
+| _+STA_                    | 66    |
+| STR (Strength)            | 1013  |
+| +_STR_                    | 82.8  |
+| AGI (Agility)             | 810   |
+| _+AGI_                    | 66    |
+| INT (Intelligence)        | 405   |
+| _+INT_                    | 32    |
+| DAM (Damage)              | 2026  |
+| ADF (Magic Defense)       | 405   |
+| ARM (Armor)               | 1013  |
+| CRE (Critical Resistance) | 507   |
+| CRI (Critical)            | 405   |
+| EVA (Evasion)             | 162   |
+| HIT                       | 405   |
+| SPE (Speed)               | 810   |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -110,67 +110,37 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                |
-| --------- | -------------------- |
-| Type      | Electric             |
-| Rarity    | Rare                 |
-| Height    | 0.3m                 |
-| Weight    | 2.0kg                |
-| Evolution | Pichu→Pikachu→Raichu |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 20    |
-| Attach          | 40    |
-| Defense         | 15    |
-| Special Attack  | 35    |
-| Special Defense | 35    |
-| Speed           | 60    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Field/Fairy       |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                  |
+| --------- | ---------------------- |
+| Type      | Electric               |
+| Rarity    | GR                     |
+| Height    | 0.3m                   |
+| Weight    | 2.0kg                  |
+| Evolution | Pichu→ Pikachu→ Raichu |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 8176  |
+| HP (Hit Points)           | 6330  |
+| POT (Potential)           | 32    |
+| STA (Stamina)             | 633   |
+| _+STA_                    | 48.4  |
+| STR (Strength)            | 1056  |
+| +_STR_                    | 81.2  |
+| AGI (Agility)             | 887   |
+| _+AGI_                    | 68.4  |
+| INT (Intelligence)        | 464   |
+| _+INT_                    | 35.6  |
+| DAM (Damage)              | 2112  |
+| ADF (Magic Defense)       | 464   |
+| ARM (Armor)               | 1056  |
+| CRE (Critical Resistance) | 528   |
+| CRI (Critical)            | 444   |
+| EVA (Evasion)             | 186   |
+| HIT                       | 317   |
+| SPE (Speed)               | 887   |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -180,8 +150,6 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
-
-1
 
 ### Zubat <a href="#zubat" id="zubat"></a>
 
@@ -191,80 +159,46 @@ It started activities after the sun went down. Because its skin is so thin that 
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value               |
-| --------- | ------------------- |
-| Type      | Poison/Flying       |
-| Rarity    | N                   |
-| Height    | 0.8m                |
-| Weight    | 7.5kg               |
-| Evolution | Zubat→Golbat→Crobat |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 40    |
-| Attach          | 45    |
-| Defense         | 35    |
-| Special Attack  | 30    |
-| Special Defense | 40    |
-| Speed           | 55    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Flying            |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                 |
+| --------- | --------------------- |
+| Type      | Flying                |
+| Rarity    | SSR                   |
+| Height    | 0.8m                  |
+| Weight    | 7.5kg                 |
+| Evolution | Zubat→ Golbat→ Crobat |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 3894  |
+| HP (Hit Points)           | 3400  |
+| POT (Potential)           | 16    |
+| STA (Stamina)             | 340   |
+| _+STA_                    | 31.2  |
+| STR (Strength)            | 512   |
+| +_STR_                    | 40    |
+| AGI (Agility)             | 325   |
+| _+AGI_                    | 24.8  |
+| INT (Intelligence)        | 263   |
+| _+INT_                    | 20    |
+| DAM (Damage)              | 1024  |
+| ADF (Magic Defense)       | 263   |
+| ARM (Armor)               | 512   |
+| CRE (Critical Resistance) | 256   |
+| CRI (Critical)            | 163   |
+| EVA (Evasion)             | 105   |
+| HIT                       | 170   |
+| SPE (Speed)               | 325   |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Grass             |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
-
-1
-
-
 
 ### Charmander <a href="#charmander" id="charmander"></a>
 
@@ -274,78 +208,46 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                           |
-| --------- | ------------------------------- |
-| Type      | Fire                            |
-| Rarity    | R                               |
-| Height    | 0.6m                            |
-| Weight    | 8.5kg                           |
-| Evolution | Charmander→Charmeleon→Charizard |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 39    |
-| Attach          | 52    |
-| Defense         | 43    |
-| Special Attack  | 60    |
-| Special Defense | 50    |
-| Speed           | 65    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Monster/Dragon    |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                             |
+| --------- | --------------------------------- |
+| Type      | Fire                              |
+| Rarity    | SSR                               |
+| Height    | 0.6m                              |
+| Weight    | 8.5kg                             |
+| Evolution | Charmander→ Charmeleon→ Charizard |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 3764  |
+| HP (Hit Points)           | 3450  |
+| POT (Potential)           | 16    |
+| STA (Stamina)             | 345   |
+| _+STA_                    | 28    |
+| STR (Strength)            | 225   |
+| +_STR_                    | 17.6  |
+| AGI (Agility)             | 420   |
+| _+AGI_                    | 34    |
+| INT (Intelligence)        | 450   |
+| _+INT_                    | 37.2  |
+| DAM (Damage)              | 900   |
+| ADF (Magic Defense)       | 450   |
+| ARM (Armor)               | 225   |
+| CRE (Critical Resistance) | 113   |
+| CRI (Critical)            | 210   |
+| EVA (Evasion)             | 180   |
+| HIT                       | 173   |
+| SPE (Speed)               | 420   |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Dragon/Monster    |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
-
-1
 
 ### Bulbasaur <a href="#bulbasaur" id="bulbasaur"></a>
 
@@ -355,78 +257,46 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                      |
-| --------- | -------------------------- |
-| Type      | Grass/Poison               |
-| Rarity    | R                          |
-| Height    | 0.7m                       |
-| Weight    | 6.9kg                      |
-| Evolution | Bulbasaur→Ivysaur→Venusaur |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 45    |
-| Attach          | 49    |
-| Defense         | 49    |
-| Special Attack  | 65    |
-| Special Defense | 65    |
-| Speed           | 45    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Monster/Grass     |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                        |
+| --------- | ---------------------------- |
+| Type      | Grass                        |
+| Rarity    | SSR                          |
+| Height    | 0.7m                         |
+| Weight    | 6.9kg                        |
+| Evolution | Bulbasaur→ Ivysaur→ Venusaur |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 3823  |
+| HP (Hit Points)           | 3000  |
+| POT (Potential)           | 16    |
+| STA (Stamina)             | 300   |
+| _+STA_                    | 24.4  |
+| STR (Strength)            | 195   |
+| +_STR_                    | 16    |
+| AGI (Agility)             | 465   |
+| _+AGI_                    | 37.2  |
+| INT (Intelligence)        | 480   |
+| _+INT_                    | 38.8  |
+| DAM (Damage)              | 960   |
+| ADF (Magic Defense)       | 480   |
+| ARM (Armor)               | 195   |
+| CRE (Critical Resistance) | 98    |
+| CRI (Critical)            | 233   |
+| EVA (Evasion)             | 192   |
+| HIT                       | 150   |
+| SPE (Speed)               | 465   |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Grass/Monster     |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
-
-1
 
 ### Gastly <a href="#gastly" id="gastly"></a>
 
@@ -436,73 +306,43 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                 |
-| --------- | --------------------- |
-| Type      | Ghost/Poison          |
-| Rarity    | SR                    |
-| Height    | 1.3m                  |
-| Weight    | 0.1kg                 |
-| Evolution | Gastly→Haunter→Gengar |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 30    |
-| Attach          | 35    |
-| Defense         | 30    |
-| Special Attack  | 100   |
-| Special Defense | 35    |
-| Speed           | 80    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Amorphous         |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                   |
+| --------- | ----------------------- |
+| Type      | Ghost                   |
+| Rarity    | SSR                     |
+| Height    | 1.3m                    |
+| Weight    | 0.1kg                   |
+| Evolution | Gastly→ Haunter→ Gengar |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 3869  |
+| HP (Hit Points)           | 3200  |
+| POT (Potential)           | 16    |
+| STA (Stamina)             | 320   |
+| _+STA_                    | 29.2  |
+| STR (Strength)            | 520   |
+| +_STR_                    | 42.4  |
+| AGI (Agility)             | 300   |
+| _+AGI_                    | 25.2  |
+| INT (Intelligence)        | 280   |
+| _+INT_                    | 20    |
+| DAM (Damage)              | 1040  |
+| ADF (Magic Defense)       | 280   |
+| ARM (Armor)               | 520   |
+| CRE (Critical Resistance) | 260   |
+| CRI (Critical)            | 150   |
+| EVA (Evasion)             | 112   |
+| HIT                       | 160   |
+| SPE (Speed)               | 300   |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Amorphous         |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -515,78 +355,46 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value          |
-| --------- | -------------- |
-| Type      | Ground         |
-| Rarity    | SR             |
-| Height    | 0.4m           |
-| Weight    | 6.5kg          |
-| Evolution | Cubone→Marowak |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 50    |
-| Attach          | 50    |
-| Defense         | 95    |
-| Special Attack  | 40    |
-| Special Defense | 50    |
-| Speed           | 35    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Monster           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                      |
+| --------- | -------------------------- |
+| Type      | Water                      |
+| Rarity    | SR                         |
+| Height    | 0.4m                       |
+| Weight    | 6.5g                       |
+| Evolution | Cubone→ Marowak→ Marowak-X |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 819   |
+| HP (Hit Points)           | 830   |
+| POT (Potential)           | 7     |
+| STA (Stamina)             | 83    |
+| _+STA_                    | 14    |
+| STR (Strength)            | 70    |
+| +_STR_                    | 9.6   |
+| AGI (Agility)             | 78    |
+| _+AGI_                    | 11.6  |
+| INT (Intelligence)        | 90    |
+| _+INT_                    | 16    |
+| DAM (Damage)              | 180   |
+| ADF (Magic Defense)       | 90    |
+| ARM (Armor)               | 70    |
+| CRE (Critical Resistance) | 35    |
+| CRI (Critical)            | 39    |
+| EVA (Evasion)             | 36    |
+| HIT                       | 42    |
+| SPE (Speed)               | 78    |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Monster           |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
-
-1
 
 ### Abra <a href="#abra" id="abra"></a>
 
@@ -596,78 +404,46 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                 |
-| --------- | --------------------- |
-| Type      | Psychic               |
-| Rarity    | SSR                   |
-| Height    | 0.9m                  |
-| Weight    | 19.5kg                |
-| Evolution | Abra→Kadabra→Alakazam |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 25    |
-| Attach          | 20    |
-| Defense         | 15    |
-| Special Attack  | 105   |
-| Special Defense | 55    |
-| Speed           | 90    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Human-Like        |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                            |
-| --------- | -------------------------------- |
-| Type      | Electric                         |
-| Rarity    | GR                               |
-| Height    | 0.3m                             |
-| Weight    | 6.0kg                            |
-| Evolution | Magnemite → Magneton → Magnezone |
+| Type      | Value                   |
+| --------- | ----------------------- |
+| Type      | Psychic                 |
+| Rarity    | SR                      |
+| Height    | 0.9m                    |
+| Weight    | 19.5kg                  |
+| Evolution | Abra→ Kadabra→ Alakazam |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| Attack Power (AKT)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 823   |
+| HP (Hit Points)           | 730   |
+| POT (Potential)           | 7     |
+| STA (Stamina)             | 73    |
+| _+STA_                    | 14    |
+| STR (Strength)            | 91    |
+| +_STR_                    | 15.2  |
+| AGI (Agility)             | 87    |
+| _+AGI_                    | 11.6  |
+| INT (Intelligence)        | 69    |
+| _+INT_                    | 10.4  |
+| DAM (Damage)              | 182   |
+| ADF (Magic Defense)       | 69    |
+| ARM (Armor)               | 91    |
+| CRE (Critical Resistance) | 46    |
+| CRI (Critical)            | 44    |
+| EVA (Evasion)             | 28    |
+| HIT                       | 37    |
+| SPE (Speed)               | 87    |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Human-Like        |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
-
-1
 
 ### Piplup <a href="#larvitar" id="larvitar"></a>
 
@@ -677,37 +453,37 @@ It is an adept hunter that tears at its prey with its scythes. Thanks to its gre
 
 {% tabs %}
 {% tab title="Basic Data" %}
-| Type      | Value                        |
-| --------- | ---------------------------- |
-| Type      | Water                        |
-| Rarity    | GR                           |
-| Height    | 0.4m                         |
-| Weight    | 5.2kg                        |
-| Evolution | Piplup → Prinplup → Empoleon |
+| Type      | Value                      |
+| --------- | -------------------------- |
+| Type      | Water                      |
+| Rarity    | R                          |
+| Height    | 0.4m                       |
+| Weight    | 5.2kg                      |
+| Evolution | Piplup→ Prinplup→ Empoleon |
 {% endtab %}
 
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| AKT(Attack Power )        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 513   |
+| HP (Hit Points)           | 560   |
+| POT (Potential)           | 4     |
+| STA (Stamina)             | 56    |
+| _+STA_                    | 9.2   |
+| STR (Strength)            | 42    |
+| +_STR_                    | 5.6   |
+| AGI (Agility)             | 44    |
+| _+AGI_                    | 6     |
+| INT (Intelligence)        | 58    |
+| _+INT_                    | 9.6   |
+| DAM (Damage)              | 116   |
+| ADF (Magic Defense)       | 58    |
+| ARM (Armor)               | 42    |
+| CRE (Critical Resistance) | 21    |
+| CRI (Critical)            | 22    |
+| EVA (Evasion)             | 23    |
+| HIT                       | 28    |
+| SPE (Speed)               | 44    |
 {% endtab %}
 
 {% tab title="Breeding" %}
@@ -718,43 +494,11 @@ It is an adept hunter that tears at its prey with its scythes. Thanks to its gre
 {% endtab %}
 {% endtabs %}
 
-
-
 ### Poliwag <a href="#poliwag" id="poliwag"></a>
 
 ![](../.gitbook/assets/Poliwag.png)
 
 It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its tail makes it a powerful swimmer. It loves to waddle on land despite the dangers. However, it will quickly return back into the water should it see danger. It cannot walk on land well unless trained everyday.
-
-{% tabs %}
-{% tab title="Basic Data" %}
-| Type      | Value                       |
-| --------- | --------------------------- |
-| Type      | Water                       |
-| Rarity    | N                           |
-| Height    | 0.6m                        |
-| Weight    | 12.4kg                      |
-| Evolution | Poliwag→Poliwhirl→Poliwrath |
-{% endtab %}
-
-{% tab title="Permanent Stats" %}
-| Type            | value |
-| --------------- | ----- |
-| HP              | 40    |
-| Attach          | 50    |
-| Defense         | 40    |
-| Special Attack  | 40    |
-| Special Defense | 40    |
-| Speed           | 90    |
-{% endtab %}
-
-{% tab title="Breeding" %}
-| Type      | value             |
-| --------- | ----------------- |
-| Egg Group | Water 1           |
-| Gender    | Male : Female=1:1 |
-{% endtab %}
-{% endtabs %}
 
 {% tabs %}
 {% tab title="Basic Data" %}
@@ -770,31 +514,31 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-|  AKT(Attack Power)        |       |
-| Hit Points (HP)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 210   |
+| HP (Hit Points)           | 220   |
+| POT (Potential)           | 2     |
+| STA (Stamina)             | 22    |
+| _+STA_                    | 4.8   |
+| STR (Strength)            | 15    |
+| +_STR_                    | 4.8   |
+| AGI (Agility)             | 18    |
+| _+AGI_                    | 5.2   |
+| INT (Intelligence)        | 25    |
+| _+INT_                    | 6.4   |
+| DAM (Damage)              | 50    |
+| ADF (Magic Defense)       | 25    |
+| ARM (Armor)               | 15    |
+| CRE (Critical Resistance) | 8     |
+| CRI (Critical)            | 9     |
+| EVA (Evasion)             | 10    |
+| HIT                       | 11    |
+| SPE (Speed)               | 18    |
 {% endtab %}
 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Water             |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -819,25 +563,25 @@ As it grow and develop over time, it will shed its skin many times before finall
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| AKT( Attack Power)        |       |
-|  HP(Hit Points)           |       |
-| POT (Potential)           |       |
-| STA (Stamina)             |       |
-| _+STA_                    |       |
-| STR (Strength)            |       |
-| +_STR_                    |       |
-| AGI (Agility)             |       |
-| _+AGI_                    |       |
-| INT (Intelligence)        |       |
-| _+INT_                    |       |
-| DAM (Damage)              |       |
-| ADF (Magic Defense)       |       |
-| ARM (Armor)               |       |
-| CRE (Critical Resistance) |       |
-| CRI (Critical)            |       |
-| EVA (Evasion)             |       |
-| HIT                       |       |
-| SPE (Speed)               |       |
+| AKT (Attack Power)        | 210   |
+| HP (Hit Points)           | 220   |
+| POT (Potential)           | 2     |
+| STA (Stamina)             | 22    |
+| _+STA_                    | 6     |
+| STR (Strength)            | 15    |
+| +_STR_                    | 4.8   |
+| AGI (Agility)             | 18    |
+| _+AGI_                    | 5.2   |
+| INT (Intelligence)        | 25    |
+| _+INT_                    | 6.4   |
+| DAM (Damage)              | 50    |
+| ADF (Magic Defense)       | 25    |
+| ARM (Armor)               | 15    |
+| CRE (Critical Resistance) | 8     |
+| CRI (Critical)            | 9     |
+| EVA (Evasion)             | 10    |
+| HIT                       | 11    |
+| SPE (Speed)               | 18    |
 {% endtab %}
 
 {% tab title="Breeding" %}
