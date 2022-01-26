@@ -59,6 +59,8 @@ It has a mythical power to resurrect the dead. It was the only known Pokémon to
 
 The electromagnetic waves released by the components on the left and right shield the gravity, thus floating in the air. The parts on the left and right are powerful magnets. It can emit strong magnetic force enough to attract iron within a radius of 100 meters.
 
+
+
 {% tabs %}
 {% tab title="Basic Data" %}
 | Type      | Value                            |
@@ -70,10 +72,39 @@ The electromagnetic waves released by the components on the left and right shiel
 | Evolution | Magnemite → Magneton → Magnezone |
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Permanent Stats" %}
+| Type                      | Value |
+| ------------------------- | ----- |
+| Attack Power (AKT)        |       |
+| Hit Points (HP)           |       |
+| POT (Potential)           |       |
+| STA (Stamina)             |       |
+| _+STA_                    |       |
+| STR (Strength)            |       |
+| +_STR_                    |       |
+| AGI (Agility)             |       |
+| _+AGI_                    |       |
+| INT (Intelligence)        |       |
+| _+INT_                    |       |
+| DAM (Damage)              |       |
+| ADF (Magic Defense)       |       |
+| ARM (Armor)               |       |
+| CRE (Critical Resistance) |       |
+| CRI (Critical)            |       |
+| EVA (Evasion)             |       |
+| HIT                       |       |
+| SPE (Speed)               |       |
+{% endtab %}
 
+{% tab title="Breeding" %}
+| Type      | Value             |
+| --------- | ----------------- |
+| Egg Group | Mineral           |
+| Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
+
+### Magnemite <a href="#magnemite" id="magnemite"></a>
 
 ### Abra <a href="#abra" id="abra"></a>
 
