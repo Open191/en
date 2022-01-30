@@ -1,9 +1,21 @@
 # Type
 
-![](../.gitbook/assets/type.png)
+Elves are divided into seven attributes based on their characteristics.
 
-The elves are divided into 18 type according to their type, and they can have one or two typ. For example,Charmander is a Fire type, while Bulbasaur is both a Grass type and a Poison type. There is no dual-type elf with the same first type as the second type (unless it is an error elf).
+The 7 properties are as follows: Ground, Fire, Water, Grass, Electric, Psychic, Ghost
 
-There is a relationship between restraint and resistance between type. If you use the skill's type to restrain the opponent's elf's type, it will cause greater damage, and if you are resisted by the opponent, the damage will be relatively small. Ineffective attacks can't bring harm.
+There is a relationship between the attributes of restraint and resistance. If you use your ability's stats to control your opponent's pokemon stats, you will deal more damage, and less damage if you are resisted. Ineffective attacks do no damage.
 
-When the elves use the same type as their own type, the damage will be higher.
+The amount of damage a wisp deals when it uses a move with the same stats as its own is higher.
+
+Water type restraint Fire type
+
+Fire type restraint Grass type
+
+Grass type restraint Ground type
+
+Ground type restraint Electric type
+
+Electric type restraint Water type
+
+Phase grams of Psychic and Ghost

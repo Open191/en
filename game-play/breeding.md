@@ -1,69 +1,97 @@
 # Breeding
 
-Almost all elf can breed, and genderless elf can lay eggs with Ditto. Only the elf of the lowest form and the elf who have not found the egg group, there are all kinds of monsters that cannot lay eggs. The elf of the lowest form can only reproduce after they have evolved. Like real-world creatures, many elf have genders, and some elf can be distinguished by gender differences. Usually, the way elf reproduce is not known or seen.
+Elves that have evolved to adult form can reproduce. Like real world creatures, many elves have a gender distinction, and some elves can be identified by gender differences. Generally, the way elves reproduce is not known or seen.
 
-#### Elf egg
+#### Elf Egg
 
 The elf lives in the elf egg before it is born, and the elf egg has a hard shell to protect its growth. Just like animals in the real world, elf will do their best to protect their elf and keep them close to them. After growing to a certain level, the elf will hatch from the egg. The time it takes for the elf to hatch varies depending on the type of elf, but if the elf egg is **stored in the computer**, the growth of the egg **will be suspended**.
 
-#### Breeding mechanics
+#### Breeding Mechanics
 
-Breeding requires the use of two elves.
+It has to be a spirit of the opposite sex.&#x20;
 
-Genesis elf breeding conditions: male and female belonging to the same egg group can reproduce,
+You can use any variety of NFT characters.&#x20;
 
-Non-genesis elf breeding conditions: two fairies of the same breed, male and female, can breed.
+And parents cannot reproduce with their offspring.&#x20;
 
-The lowest form of elf can reproduce only after it has evolved (except for non-evolved elf).
+The elf can only reproduce in its adult form.&#x20;
 
-Asexual elves can only breed with Ditto, which can breed with any elves except the lowest form of pixies.
+Elves in juvenile form and ultimate form cannot breed.&#x20;
 
-Each elf can breed up to seven times.
+Neither elf has reproduced more than seven times.&#x20;
 
-Fairies of the same father or mother cannot reproduce, and parents cannot reproduce with their offspring.
+Players who use the female elf pay ELFT and EP as breeding fees.
 
-Male elf breeding cool-off period is 0.
+Male elf breeding cool-off period is 0.&#x20;
 
 The female elf must wait for the eggs to hatch before she is allowed to start another round of reproduction.
 
-Only one fairy egg can be produced per breeding. The fairy egg belongs to the female, and the male gets a quarter of the breeding fee.
-
-#### Breeding fee
+#### Breeding Fee
 
 | Breeding Times | Fee（ELFT） | Fee（EP） |
 | -------------- | --------- | ------- |
-| 1              | 80        | 1000    |
-| 2              | 160       | 1500    |
+| 1              | 80        | 1500    |
+| 2              | 160       | 2000    |
 | 3              | 240       | 2500    |
 | 4              | 320       | 3500    |
 | 5              | 400       | 6000    |
 | 6              | 480       | 10000   |
 | 7              | 600       | 15000   |
 
-#### Hatch
+#### Incubation
 
-Elf eggs need to be sent to the incubation house for incubation, and players need to pay ELFT and EP (Elf Potions), depending on the number of times they hatch. The ELFT fee component is variable and can be adjusted from time to time based on economic factors.
+Fairy eggs need to be sent to the incubation house for incubation, and players need to pay ELFT and EP (fairy potions), depending on the number of times they hatch. The ELFT fee component is variable and can be adjusted from time to time based on economic factors.&#x20;
 
-The incubation cycle is calculated based on the female's rarity (multiply with Ditto and compute in periods that are not Ditto squared).
+The incubation cycle is calculated based on the female elf's rarity.&#x20;
 
 According to the number of births, plus reproductive loss. Add 2 days for each child. For example, second birth loss plus 2 days.
 
+**Genesis Elf Incubation Cycle**
+
+| N   | 7天 |
+| --- | -- |
+| R   | 7天 |
+| SR  | 7天 |
+| SSR | 7天 |
+| GR  | 7天 |
+| UR  | 7天 |
+
+**Non-Genesis Elf incubation Cycle**
+
 | Rarity | Incubation Cycle |
 | ------ | ---------------- |
-| N      | 14 Days          |
-| R      | 13 Days          |
-| SR     | 12 Days          |
-| SSR    | 11 Days          |
-| UR     | 10 Days          |
+| N      | 12 Days          |
+| R      | 11 Days          |
+| SR     | 10 Days          |
+| SSR    | 9 Days           |
+| GR     | 8 Days           |
+| UR     | 7 Days           |
 
 In the future, there will be more new ways for elves to incubate eggs in their own houses.
 
-#### Genetic mechanism
+#### Reproduce the Results
 
-From the elf eggs hatch the lowest form of elf.
+You can only get 1 fairy egg per breeding.
 
-It takes two genesis elves to spawn a new NFT character.
+Female elf players receive spawn elf eggs.
 
-Gendered elves are now randomly assigned according to the sex ratio of NFT characters.
+Male elf players receive a quarter of the reproduction fee in return.
 
-The elf's regular ability is to randomize between parents.
+From the fairy eggs hatch the lowest form of elf.
+
+Wisps breed to produce offspring whose normal abilities are set according to their NFT character.
+
+Two sprites may spawn new NFT characters, and their rarity determines the probability that their offspring will have high rarity.
+
+| Sum of Weights=2  | 81.5%  | 13.5%  | 2%     | 1.5%   | 1.00%  | 0.50%  |
+| ----------------- | ------ | ------ | ------ | ------ | ------ | ------ |
+| Sum of Weights=3  | 75.45% | 17.55% | 2.8%   | 2.1%   | 1.40%  | 0.70%  |
+| Sum of Weights=4  | 67.38% | 22.82% | 3.92%  | 2.94%  | 1.96%  | 0.98%  |
+| Sum of Weights=5  | 56.62% | 29.66% | 5.49%  | 4.12%  | 2.74%  | 1.37%  |
+| Sum of Weights=6  | 42.23% | 38.56% | 7.68%  | 5.76%  | 3.84%  | 1.92%  |
+| Sum of Weights=7  | 22.98% | 50.12% | 10.76% | 8.07%  | 5.38%  | 2.69%  |
+| Sum of Weights=8  | 0      | 62.35% | 15.06% | 11.29% | 7.53%  | 3.76%  |
+| Sum of Weights=9  | 0      | 47.29% | 21.08% | 15.81% | 10.54% | 5.27%  |
+| Sum of Weights=10 | 0      | 26.21% | 29.52% | 22.14% | 14.76% | 7.38%  |
+| Sum of Weights=11 | 0      | 0      | 38.02% | 30.99% | 20.66% | 10.33  |
+| Sum of Weights=12 | 0      | 0      | 13.22% | 43.39% | 28.93% | 14.46% |

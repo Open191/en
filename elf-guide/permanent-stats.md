@@ -1,19 +1,63 @@
-# Permanent stats
+# Permanent Stats
 
-Permanent stats is any of certain numerical values pertaining to each elf. Each elf has six ability values, namely HP, Attack, Defense, Special Attack, Apecial Defense and Speed.
+Regular abilities are the various parameters of an elf in a match. Each elf has 15 ability values, which are HP, ATK, SPE, ADF, CRE, CRI, DAM, ARM, HIT, AGI, INT, STA, STR, POT, AND EAV.
 
-#### HP
+**HP（Hit Points）**
 
-The HP bar is one of the six basic ability values. It represents the life value of an elf. When the elf is damaged, the HP will be reduced, and when the HP is reduced to 0, it will enter a state of dying. The lost HP can be restored with specific props and moves.
+Represents a character's health. Combatants are K.O.ed if their HP reaches 0.
 
-#### Attack
+#### ATK（Attack Power）
 
 Attack is a type of elf ability. The high-attack elf uses moves that cause high damage.
 
-#### Defense
+**SPE（Speed）**
 
-Defense is a kind of elf ability. In battle, the elf will use defensive moves to resist the enemy's attack and cause HP to drop. The defensive elves receive less damage from attacks.
+Decreses the time between a character's turms, allowing them to act more frequently.
 
-#### Speed
+**ADF（Magic Defense）**
 
-Speed is a special ability value in the ability. Normally, it doesn't participate in the damage calculation. The elves with high speed ability will move first than those with low speed ability. If the speed is the same, the attack sequence is random.
+Decreases the damage received from magic attacks.
+
+**CRE（Critical Resistance）**
+
+......
+
+**CRI（Critical）**
+
+Represents deal critical damage.
+
+**DAM（Damage）**
+
+......
+
+**ARM（Armor）**
+
+......
+
+**HIT**&#x20;
+
+......
+
+**AGI（Agility）**
+
+Increases the likelihood of evading physical attacks.
+
+**INT（Intelligence）**
+
+......
+
+**STA（Stamina）**
+
+Increases the damage dealt by attacks and physical crafts.
+
+**STR（Strength）**
+
+Increases the damage dealt by attacks and physical crafts.
+
+**POT（Potential）**
+
+......
+
+**EVA（vasion）**
+
+Represents the chance to evade attacks an crafts without fail.
