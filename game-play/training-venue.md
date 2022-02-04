@@ -28,7 +28,7 @@ Rarity UR: Pledge 100 ELFT to start a 1-day training, each training can get 105.
 
 &#x20;Rarity N: Pledge 200 ELFT to start a 1-day training, each training can get 111.11EP.&#x20;
 
-Rarity R: Pledge 200ELFT to start a 1-day training, and you can get 117.65EP per training.&#x20;
+Rarity R: Pledge 200ELFT to start a 1-day training, and each training can get 117.65EP.&#x20;
 
 Rarity SR: Pledge 200 ELFT to start a 1-day training, and each training can get 125.00EP.&#x20;
 
