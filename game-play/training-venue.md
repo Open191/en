@@ -16,7 +16,7 @@ Rarity N: Pledge 100 ELFT to start a 1-day training, and each training can get 8
 
 Rarity R: Pledge 100 ELFT to start a 1-day training, and each training can get 86.96EP.&#x20;
 
-Rarity SR: Pledge 100ELFT to start a 1-day training, and you can get 90.91EP per training.&#x20;
+Rarity SR: Pledge 100ELFT to start a 1-day training, and  each training can get 90.91EP.&#x20;
 
 Rarity SSR: Stake 100 ELFT to start a 1-day training, and each training can get 95.24EP.&#x20;
 
@@ -32,7 +32,7 @@ Rarity R: Pledge 200ELFT to start a 1-day training, and you can get 117.65EP per
 
 Rarity SR: Pledge 200 ELFT to start a 1-day training, and each training can get 125.00EP.&#x20;
 
-Rarity SSR: Pledge 200ELFT to start a 1-day training, and you can get 133.33EP per training.&#x20;
+Rarity SSR: Pledge 200ELFT to start a 1-day training, and each training can get 133.33EP.&#x20;
 
 Rarity GR: Pledge 200ELFT to start a 1-day training, and each training can get 142.86EP.&#x20;
 
@@ -46,7 +46,7 @@ Rarity R: Pledge 200 ELFT to start a 1-day training, and each training can get 1
 
 Rarity SR: Pledge 200ELFT to start a 1-day training, and each training can get 200.00EP.&#x20;
 
-Rarity SSR: Stake 200ELFT to start a 1-day training, and you can get 222.22EP per training.&#x20;
+Rarity SSR: Stake 200ELFT to start a 1-day training, and  each training can get 222.22EP.&#x20;
 
 Rarity GR: Pledge 200ELFT to start a 1-day training, and each training can get 250.00EP.&#x20;
 
