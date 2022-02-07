@@ -35,3 +35,4 @@
 ## ABOUT US
 
 * [Team](about-us/team.md)
+* [Contact Information](about-us/contact-information.md)
