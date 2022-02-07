@@ -20,27 +20,27 @@ Elves in juvenile form and ultimate form cannot breed.&#x20;
 
 Neither elf has reproduced more than seven times.&#x20;
 
-Players who use the female elf pay ELFT and EP as breeding fees.
+Players who use the female elf pay ELFT as breeding fees.
 
-Male elf breeding cool-off period is 0.&#x20;
-
-The female elf must wait for the eggs to hatch before she is allowed to start another round of reproduction.
+The cooling-off period for male and female elves is the same as the incubation period. After the cooling-off period, a new round of breeding is allowed.
 
 #### Breeding Fee
 
-| Breeding Times | Fee（ELFT） | Fee（EP） |
-| -------------- | --------- | ------- |
-| 1              | 80        | 1500    |
-| 2              | 160       | 2000    |
-| 3              | 240       | 2500    |
-| 4              | 320       | 3500    |
-| 5              | 400       | 6000    |
-| 6              | 480       | 10000   |
-| 7              | 600       | 15000   |
+Players need to pay ELFT to reproduce, which is determined by the number of reproductions. The ELFT fee portion is variable and can be adjusted at any time based on economic factors.
+
+| Breeding Times | Fee（ELFT） |
+| -------------- | --------- |
+| 1              | 200       |
+| 2              | 300       |
+| 3              | 500       |
+| 4              | 800       |
+| 5              | 1300      |
+| 6              | 2100      |
+| 7              | 3400      |
 
 #### Incubation
 
-Fairy eggs need to be sent to the incubation house for incubation, and players need to pay ELFT and EP (fairy potions), depending on the number of times they hatch. The ELFT fee component is variable and can be adjusted from time to time based on economic factors.&#x20;
+Fairy eggs need to be sent to the incubation house for incubation.&#x20;
 
 The incubation cycle is calculated based on the female elf's rarity.&#x20;
 

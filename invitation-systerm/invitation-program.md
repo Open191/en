@@ -2,11 +2,11 @@
 
 #### Elfball
 
-Invite friends to buy a elfball, and 1 elfball can get 5 ELFT rewards
+Invite friends to buy Poké Balls, 1 Poké Ball can get 10% of Poké Ball sales.
 
 #### Training Venue
 
-5% reward of training income of level 1 friends
+7% reward of training income of level 1 friends
 
 3% reward of training income for level 2 friends
 
@@ -16,7 +16,15 @@ level1 friends get 1.5% ELFT reward of turnover
 
 level2 friends get 0.5% ELFT reward of turnover
 
-\*\*TOP10 performance reward \*\*
+#### PVE and PVP
+
+7% bonus of training income for level 1 friends
+
+3% bonus of training income for level 2 friends
+
+The activation condition for level 1 friends and level 2 friends is that you must first have a elf or Elfball.
+
+#### TOP10 performance reward
 
 First place: 30%, second place: 20%, third place 10%, 4th-7th place: evenly split 40%, reward once every 3 months, a total of 3 times. Reward 100,000 ELFT each time,
 

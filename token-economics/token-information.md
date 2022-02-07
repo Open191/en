@@ -18,3 +18,8 @@ The specific rules are: 6% tax is deducted for each transfer, 2% of which is bur
 
 The role of the fund pool: when the price of the currency drops too much, the protection mechanism will be activated to repurchase ELFT and wizard NFT.
 
+#### EG(ELFGOLD)
+
+EG是游戏内代币，可以在PVE，PVP等游戏环节产生，EG可以兑换为ELFT。
+
+EG可以用于升级道具，装备等使用，在游戏内有大量的使用场景。

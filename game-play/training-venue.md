@@ -12,44 +12,44 @@ Step 3: Confirm the training and stake the corresponding ELFT Start training !
 
 **Training Income-**Elf in baby form
 
-Rarity N: Pledge 100 ELFT to start a 1-day training, and each training can get 83.33EP.&#x20;
+Rarity N: Pledge 300 ELFT to start a 1-day training, and each training can get 12 ELFT.&#x20;
 
-Rarity R: Pledge 100 ELFT to start a 1-day training, and each training can get 86.96EP.&#x20;
+Rarity R: Pledge 300 ELFT to start a 1-day training, and each training can get 14 ELFT.&#x20;
 
-Rarity SR: Pledge 100ELFT to start a 1-day training, and  each training can get 90.91EP.&#x20;
+Rarity SR: Pledge 300ELFT to start a 1-day training, and  each training can get 16 ELFT.&#x20;
 
-Rarity SSR: Stake 100 ELFT to start a 1-day training, and each training can get 95.24EP.&#x20;
+Rarity SSR: Stake 300 ELFT to start a 1-day training, and each training can get 18 ELFT.&#x20;
 
-Rarity GR: Pledge 100 ELFT to start a 1-day training, and each training can get 100.00EP.&#x20;
+Rarity GR: Pledge 300 ELFT to start a 1-day training, and each training can get 20 ELFT.&#x20;
 
-Rarity UR: Pledge 100 ELFT to start a 1-day training, each training can get 105.26EP.
+Rarity UR: Pledge 300 ELFT to start a 1-day training, each training can get 22 ELFT.
 
 **Training Income-**Elf in Adult Form
 
-&#x20;Rarity N: Pledge 200 ELFT to start a 1-day training, each training can get 111.11EP.&#x20;
+&#x20;Rarity N: Pledge 300 ELFT to start a 1-day training, each training can get 16 ELFT.&#x20;
 
-Rarity R: Pledge 200ELFT to start a 1-day training, and each training can get 117.65EP.&#x20;
+Rarity R: Pledge 300ELFT to start a 1-day training, and each training can get 18 ELFT.&#x20;
 
-Rarity SR: Pledge 200 ELFT to start a 1-day training, and each training can get 125.00EP.&#x20;
+Rarity SR: Pledge 300 ELFT to start a 1-day training, and each training can get 20 ELFT.&#x20;
 
-Rarity SSR: Pledge 200ELFT to start a 1-day training, and each training can get 133.33EP.&#x20;
+Rarity SSR: Pledge 300ELFT to start a 1-day training, and each training can get 22 ELFT.&#x20;
 
-Rarity GR: Pledge 200ELFT to start a 1-day training, and each training can get 142.86EP.&#x20;
+Rarity GR: Pledge 300ELFT to start a 1-day training, and each training can get 24 ELFT.&#x20;
 
-Rarity UR: Pledge 200 ELFT to start a 1-day training, and each training can get 153.85EP.
+Rarity UR: Pledge 300 ELFT to start a 1-day training, and each training can get 26 ELFT.
 
 **Training Income -** Elf in Ultimate Form&#x20;
 
-Rarity N: Pledge 200 ELFT to start a 1-day training, each training can get 166.67EP.&#x20;
+Rarity N: Pledge 300 ELFT to start a 1-day training, each training can get 21 ELFT.&#x20;
 
-Rarity R: Pledge 200 ELFT to start a 1-day training, and each training can get 181.22EP.&#x20;
+Rarity R: Pledge 300 ELFT to start a 1-day training, and each training can get 23 ELFT.&#x20;
 
-Rarity SR: Pledge 200ELFT to start a 1-day training, and each training can get 200.00EP.&#x20;
+Rarity SR: Pledge 300ELFT to start a 1-day training, and each training can get 25 ELFT.&#x20;
 
-Rarity SSR: Stake 200ELFT to start a 1-day training, and  each training can get 222.22EP.&#x20;
+Rarity SSR: Stake 300ELFT to start a 1-day training, and  each training can get 27 ELFT.&#x20;
 
-Rarity GR: Pledge 200ELFT to start a 1-day training, and each training can get 250.00EP.&#x20;
+Rarity GR: Pledge 300ELFT to start a 1-day training, and each training can get 29 ELFT.&#x20;
 
-Rarity UR: Pledge 200ELFT to start a 1-day training, and each training can get 285.71EP.
+Rarity UR: Pledge 300ELFT to start a 1-day training, and each training can get 31 ELFT.
 
 Training income will gradually decrease with the increase in the number of elves and the increase in later game scenes.

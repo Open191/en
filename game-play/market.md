@@ -1,8 +1,10 @@
 # Market (Trailer)
 
-The NFT market will open at launch, and the platform currency will be ELFT.
+The NFT market will open at launch.
 
-NFT transactions will charge a 5% handling fee, the platform will change 2%, and the market reward will be 3%.
+NFT transactions will charge a 10% handling fee, the platform will charge 8%, and the market reward will be 2%.
+
+
 
 #### More gameplay
 

@@ -31,3 +31,5 @@ Practical examples:
 
 * Case 1:Withdraw 100 ELFT. If you choose to arrive in 3 days, the withdrawal fee will be 60%. After the 5th day, 40 ELFT will be received. Pay 60 ELFT (100\*60%) as a handling fee, of which 36 ELFT (5\*60%) will be used for destruction.
 * Case 2:Withdraw 100 ELFT. If you choose to arrive within 14 days, the withdrawal fee will be at least 5%. After the 14th day, 95 ELFT will be received. Pay 5 ELFT(100\*5%) as a handling fee, of which 3 ELFT tokens (5\*60%) will be used for destruction.
+
+The above coin withdrawal system is suitable for in-game staking training, PVE, PVP and other links.
