@@ -79,7 +79,7 @@ Male elf players receive a quarter of the reproduction fee in return.
 
 From the fairy eggs hatch the lowest form of elf.
 
-Wisps breed to produce offspring whose normal abilities are set according to their NFT character.
+The elves reproduce to produce offspring elves, and the offspring's regular abilities have a random probability of plus or minus 20% according to the offspring's own NFT character value.
 
 Two sprites may spawn new NFT characters, and their rarity determines the probability that their offspring will have high rarity.
 

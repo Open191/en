@@ -3,7 +3,8 @@
 | Contact          | Website                                                             |
 | ---------------- | ------------------------------------------------------------------- |
 | Official website | https://www.elfworld.games                                          |
-| Telegraph        | https://twitter.com/elfworld99                                      |
+| Telegraph        | https://t.me/Elfworld99                                             |
+| Twitter          | https://twitter.com/elfworld99                                      |
 | Facebook         | https://www.facebook.com/elfworldchannel                            |
 | YouTube          | https://www.youtube.com/channel/UCjyDBSy\_OkTC\_q50tjpazPA/featured |
 

@@ -26,6 +26,6 @@ The activation condition for level 1 friends and level 2 friends is that you mus
 
 #### TOP10 performance reward
 
-First place: 30%, second place: 20%, third place 10%, 4th-7th place: evenly split 40%, reward once every 3 months, a total of 3 times. Reward 100,000 ELFT each time,
+First place: 30%, second place: 20%, third place 10%, 4th-10th place: evenly split 40%, reward once every 3 months, a total of 3 times. Reward 100,000 ELFT each time,
 
 Evaluation conditions: Level 1 plus Level 2 Referrer Performance for the top 10, the source of this reward token is the market operation token pool.
