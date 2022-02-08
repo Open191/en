@@ -8,17 +8,17 @@ The elf lives in the elf egg before it is born, and the elf egg has a hard shell
 
 #### Breeding Mechanics
 
-It has to be a spirit of the opposite sex.&#x20;
+It has to be a spirit of the opposite sex.
 
-You can use any variety of NFT characters.&#x20;
+You can use any variety of NFT characters.
 
-And parents cannot reproduce with their offspring.&#x20;
+And parents cannot reproduce with their offspring.
 
-The elf can only reproduce in its adult form.&#x20;
+The elf can only reproduce in its adult form.
 
-Elves in juvenile form and ultimate form cannot breed.&#x20;
+Elves in juvenile form and ultimate form cannot breed.
 
-Neither elf has reproduced more than seven times.&#x20;
+Neither elf has reproduced more than seven times.
 
 Players who use the female elf pay ELFT as breeding fees.
 
@@ -40,21 +40,22 @@ Players need to pay ELFT to reproduce, which is determined by the number of repr
 
 #### Incubation
 
-Fairy eggs need to be sent to the incubation house for incubation.&#x20;
+Fairy eggs need to be sent to the incubation house for incubation.
 
-The incubation cycle is calculated based on the female elf's rarity.&#x20;
+The incubation cycle is calculated based on the female elf's rarity.
 
 According to the number of births, plus reproductive loss. Add 2 days for each child. For example, second birth loss plus 2 days.
 
 **Genesis Elf Incubation Cycle**
 
-| N   | 7天 |
-| --- | -- |
-| R   | 7天 |
-| SR  | 7天 |
-| SSR | 7天 |
-| GR  | 7天 |
-| UR  | 7天 |
+| Rarity | Incubation Cycle |
+| ------ | ---------------- |
+| N      | 7 Days           |
+| R      | 7 Days           |
+| SR     | 7 Days           |
+| SSR    | 7 Days           |
+| GR     | 7 Days           |
+| UR     | 7 Days           |
 
 **Non-Genesis Elf incubation Cycle**
 
@@ -83,9 +84,10 @@ The elves reproduce to produce offspring elves, and the offspring's regular abil
 
 Two sprites may spawn new NFT characters, and their rarity determines the probability that their offspring will have high rarity.
 
-| Sum of Weights=2  | 81.5%  | 13.5%  | 2%     | 1.5%   | 1.00%  | 0.50%  |
+| Weights           | N=1    | R=2    | SR=3   | SSR=4  | GR=5   | UR=6   |
 | ----------------- | ------ | ------ | ------ | ------ | ------ | ------ |
-| Sum of Weights=3  | 75.45% | 17.55% | 2.8%   | 2.1%   | 1.40%  | 0.70%  |
+| Sum of Weights=2  | 81.50% | 13.50% | 2.00%  | 1.50%  | 1.00%  | 0.50%  |
+| Sum of Weights=3  | 75.45% | 17.55% | 2.80%  | 2.10%  | 1.40%  | 0.70%  |
 | Sum of Weights=4  | 67.38% | 22.82% | 3.92%  | 2.94%  | 1.96%  | 0.98%  |
 | Sum of Weights=5  | 56.62% | 29.66% | 5.49%  | 4.12%  | 2.74%  | 1.37%  |
 | Sum of Weights=6  | 42.23% | 38.56% | 7.68%  | 5.76%  | 3.84%  | 1.92%  |
@@ -93,5 +95,5 @@ Two sprites may spawn new NFT characters, and their rarity determines the probab
 | Sum of Weights=8  | 0      | 62.35% | 15.06% | 11.29% | 7.53%  | 3.76%  |
 | Sum of Weights=9  | 0      | 47.29% | 21.08% | 15.81% | 10.54% | 5.27%  |
 | Sum of Weights=10 | 0      | 26.21% | 29.52% | 22.14% | 14.76% | 7.38%  |
-| Sum of Weights=11 | 0      | 0      | 38.02% | 30.99% | 20.66% | 10.33  |
+| Sum of Weights=11 | 0      | 0      | 38.02% | 30.99% | 20.66% | 10.33% |
 | Sum of Weights=12 | 0      | 0      | 13.22% | 43.39% | 28.93% | 14.46% |
