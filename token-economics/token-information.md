@@ -20,6 +20,6 @@ The role of the fund pool: when the price of the currency drops too much, the pr
 
 #### EG(ELFGOLD)
 
-EG是游戏内代币，可以在PVE，PVP等游戏环节产生，EG可以兑换为ELFT。
+EG is an in-game token, which can be generated in PVE, PVP and other game links, and EG can be exchanged for ELFT.&#x20;
 
-EG可以用于升级道具，装备等使用，在游戏内有大量的使用场景。
+EG can be used to upgrade props, equipment, etc., and there are a lot of usage scenarios in the game.
