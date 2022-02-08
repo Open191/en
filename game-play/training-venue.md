@@ -10,7 +10,7 @@ Step 2: Go to the Training Venue and select the elf to train
 
 Step 3: Confirm the training and stake the corresponding ELFT Start training !
 
-**Training Income-**Elf in baby form
+**Training Income-**Elf in Baby Form
 
 Rarity N: Pledge 300 ELFT to start a 1-day training, and each training can get 12 ELFT.&#x20;
 
