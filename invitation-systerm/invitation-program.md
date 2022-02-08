@@ -2,7 +2,7 @@
 
 #### Elfball
 
-Invite friends to buy Poké Balls, 1 Poké Ball can get 10% of Poké Ball sales.
+Invite friends to buy elfalls, 1 elfball can get 10% of elfball sales.
 
 #### Training Venue
 
