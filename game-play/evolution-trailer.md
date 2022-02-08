@@ -4,14 +4,13 @@ In the story, elf and humans are not separated from each other at first, and bel
 
 In the Elfworld, the term evolution specifically refers to the process by which the elf grows to a certain stage or transforms into another elf under certain conditions. Evolution is not just about getting bigger. Elf in the general evolution form has a stronger race value, learns different moves, and even changes attributes. Many elf can evolve.
 
-#### Evolution Cost
+#### Evolution Fee
 
-
-
-| N   | 100ELFT | 200ELFT |
-| --- | ------- | ------- |
-| R   | 120ELFT | 240ELFT |
-| SR  | 140ELFT | 280ELFT |
-| SSR | 160ELFT | 320ELFT |
-| GR  | 180ELFT | 360ELFT |
-| UR  | 200ELFT | 400ELFT |
+| Rarity | Adult Form Fee (ELFT) | Ultimate Form Fee (ELFT) |
+| ------ | --------------------- | ------------------------ |
+| N      | 100                   | 200                      |
+| R      | 120                   | 240                      |
+| SR     | 140                   | 280                      |
+| SSR    | 160                   | 320                      |
+| GR     | 180                   | 360                      |
+| UR     | 200                   | 400                      |
