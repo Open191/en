@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Elfworld](README.md)
+* [Welcome to Elfworld!](README.md)
 
 ## TOKEN ECONOMICS
 
