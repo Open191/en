@@ -8,14 +8,4 @@ There is a relationship between the attributes of restraint and resistance. If y
 
 The amount of damage a wisp deals when it uses a move with the same stats as its own is higher.
 
-Water type restraint Fire type
-
-Fire type restraint Grass type
-
-Grass type restraint Ground type
-
-Ground type restraint Electric type
-
-Electric type restraint Water type
-
-Phase grams of Psychic and Ghost
+![](<../.gitbook/assets/Type Restraint.png>)
