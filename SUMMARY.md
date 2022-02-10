@@ -2,7 +2,7 @@
 
 * [Welcome to Elfworld!](README.md)
 * [Language](language/README.md)
-  * [English](https://docs.elfworld.games)
+  * [English （Main)](https://docs.elfworld.games)
   * [Việt Nam](https://elfworld.games)
 
 ## TOKEN ECONOMICS
