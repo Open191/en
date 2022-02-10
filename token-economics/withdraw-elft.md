@@ -8,22 +8,23 @@ The Withdraw rate will start from 75%. Every day it will be reduced by 5% until 
 
 Every day is reduced by 5% which would be the withdraw rate:
 
-| 0  | 75% |
-| -- | --- |
-| 1  | 70% |
-| 2  | 65% |
-| 3  | 60% |
-| 4  | 55% |
-| 5  | 50% |
-| 6  | 45% |
-| 7  | 40% |
-| 8  | 35% |
-| 9  | 30% |
-| 10 | 25% |
-| 11 | 20% |
-| 12 | 15% |
-| 13 | 10% |
-| 14 | 5%  |
+| Date of Waiting | Rate |
+| --------------- | ---- |
+| 0               | 75%  |
+| 1               | 70%  |
+| 2               | 65%  |
+| 3               | 60%  |
+| 4               | 55%  |
+| 5               | 50%  |
+| 6               | 45%  |
+| 7               | 40%  |
+| 8               | 35%  |
+| 9               | 30%  |
+| 10              | 25%  |
+| 11              | 20%  |
+| 12              | 15%  |
+| 13              | 10%  |
+| 14              | 5%   |
 
 Once we remove it, the day counter will start again.
 
