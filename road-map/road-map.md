@@ -6,8 +6,9 @@
 | Q1    | IDO                               |
 | Q1    | Elfworld Game: Training Reward    |
 | Q1    | Elfworld Game: Elf Evolution      |
-| Q2    | Elfworld Game: Elf Breeding       |
+| Q2    | Elfworld Game: Elf Breed          |
 | Q2    | Elfworld Game: Elf Egg Hatching   |
+| Q2    | Elfworld Game: Elf Breeding       |
 | Q2    | Elfworld Game: NFT Trading Market |
 | Q2    | Elfworld Game: PVE Battle         |
 | Q2    | Elfworld Game: PVE Expedition     |
