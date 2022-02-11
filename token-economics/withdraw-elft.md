@@ -1,6 +1,6 @@
 # Withdraw ELFT
 
-The withdraw system works on an individual basis, each person will have a different fee depending on how long he/she has been waiting between withdrawals.
+The withdraw system works on an individual basis, each account will have a different fee depending on how long he/she has been waiting between withdrawals.
 
 We know that when panic situations are generated, people can be influenced to sell. Our way to counteract these situations is as follows:
 
