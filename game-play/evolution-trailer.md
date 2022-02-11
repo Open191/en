@@ -4,6 +4,8 @@ In the story, elf and humans are not separated from each other at first, and bel
 
 In the Elfworld, the term evolution specifically refers to the process by which the elf grows to a certain stage or transforms into another elf under certain conditions. Evolution is not just about getting bigger. Elf in the general evolution form has a stronger race value, learns different moves, and even changes attributes. Many elf can evolve.
 
+Controlled by elf evolution level. Elf evolution form: baby form, adult form, ultimate form. Upgrade the elf's regular abilities through evolution and unlock new abilities for the elf.
+
 #### Evolution Fee
 
 | Rarity | Adult Form Fee (ELFT) | Ultimate Form Fee (ELFT) |
