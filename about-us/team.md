@@ -4,32 +4,36 @@ The project was initiated by an international team with a background in blockcha
 
 #### Operation team
 
-![Khanh Le](<../.gitbook/assets/Khanh Le.jpg>)
+![](<../.gitbook/assets/Khanh Le.jpg>)
 
 Khanh Le
 
-![Alex Liu](<../.gitbook/assets/Alex Liu.jpg>)
+![](<../.gitbook/assets/Alex Liu.jpg>)
 
-lex Liu
+Alex Liu
 
-![Brian Breslin](<../.gitbook/assets/Brian Breslin.jpg>)
+![](<../.gitbook/assets/Brian Breslin.jpg>)
 
 Brian Breslin
 
-![Hao Li](<../.gitbook/assets/Hao Li.jpg>)
+![](<../.gitbook/assets/Hao Li.jpg>)
 
 Hao Li
 
-![Boon Loo Gan](<../.gitbook/assets/Boon Loo Gan.jpg>)
+![](<../.gitbook/assets/Boon Loo Gan.jpg>)
 
 Boon Loo Gan
 
 #### Expert Consultant Team
 
-![Federico Carlos Polak](<../.gitbook/assets/Federico Carlos Polak.jpg>)
+![](<../.gitbook/assets/Federico Carlos Polak.jpg>)
 
 Federico Carlos Polak
 
-![Chou Zhenxing](<../.gitbook/assets/Chou Zhenxing.png>)
+![](<../.gitbook/assets/Erika Enbarg.jpg>)
+
+Erika Enbarg
+
+![](<../.gitbook/assets/Chou Zhenxing.jpg>)
 
 Chou Zhenxing
