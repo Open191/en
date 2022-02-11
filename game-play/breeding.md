@@ -1,6 +1,6 @@
 # Breeding
 
-Elves that have evolved to adult form can reproduce. Like real world creatures, many elves have a gender distinction, and some elves can be identified by gender differences. Generally, the way elves reproduce is not known or seen.
+Elf in their baby form can only reproduce after they have evolved.. Like real world creatures, many elves have a gender distinction, and some elves can be identified by gender differences. Generally, the way elves reproduce is not known or seen.
 
 #### Elf Egg
 
@@ -14,9 +14,7 @@ You can use any variety of NFT characters.
 
 And parents cannot reproduce with their offspring.
 
-The elf can only reproduce in its adult form.
-
-Elves in juvenile form and ultimate form cannot breed.
+Only elves in adult and ultimate form can reproduce. Elf in baby form cannot reproduce.
 
 Neither elf has reproduced more than seven times.
 
