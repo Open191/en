@@ -11,9 +11,9 @@
 * [Distribution](token-economics/distribution.md)
 * [Withdraw ELFT](token-economics/withdraw-elft.md)
 
-## Invitation Systerm
+## INVITATION SYSTEM
 
-* [Invitation Program](invitation-systerm/invitation-program.md)
+* [Invitation Program](invitation-system/invitation-program.md)
 
 ## GAME PLAY
 
