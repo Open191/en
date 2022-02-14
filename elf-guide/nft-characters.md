@@ -6,7 +6,7 @@ Players can purchase fairy balls to randomly acquire elves. There are currently 
 
 ![](../.gitbook/assets/Ho-Oh.png)
 
-It has a mythical power to resurrect the dead. It was the only known Pokémon to learn Sacred Fire, its former signature move. It is said that when it flies its huge wings create bright, colorful rainbows. The rare few who bear witness to it is promised eternal happiness.
+It has a mythical power to resurrect the dead. It was the only known elf to learn Sacred Fire, its former signature move. It is said that when it flies its huge wings create bright, colorful rainbows. The rare few who bear witness to it is promised eternal happiness.
 
 {% tabs %}
 {% tab title="Basic Data" %}
@@ -545,7 +545,7 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 
 ![](../.gitbook/assets/Caterpie.png)
 
-As it grow and develop over time, it will shed its skin many times before finally cocooning itself in thick silk. It has a voracious appetite, which drives it to eat a hundred leaves a day. It will even eat leaves bigger than itself. According to Pokémon Adventures, its favorite food is the Vermilion flower. It lives in temperate forests and jungles.
+As it grow and develop over time, it will shed its skin many times before finally cocooning itself in thick silk. It has a voracious appetite, which drives it to eat a hundred leaves a day. It will even eat leaves bigger than itself. Its favorite food is the Vermilion flower. It lives in temperate forests and jungles.
 
 {% tabs %}
 {% tab title="Basic Data" %}
