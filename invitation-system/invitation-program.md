@@ -2,7 +2,9 @@
 
 #### Elfball
 
-Invite friends to buy elfalls, 1 elfball can get 10% of elfball sales.
+Invite friends to buy elfalls, 1 elfball can get 10% of elfball sales.In order to additionally reward referrals with better performance, the project side provides an additional 10% sales reward for senior referrals.&#x20;
+
+Judgment criteria for senior recommenders: recommend 10 different addresses to buy blind boxes, and the total amount of purchases is more than 20.
 
 #### Training Venue
 

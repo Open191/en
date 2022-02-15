@@ -2,7 +2,7 @@
 
 ELFT serves as a community and game token.
 
-#### Contract Address:0xxxxxxxxxxx
+**Contract Address:** 0x26B9A652e7D45fFF08f2229a835862cDC811e54A
 
 ```
 Name: Elf Token
@@ -14,7 +14,9 @@ Total Supply: 100 000 000
 
 ELFT token adopts a deflationary model. The deflation model ends at 21 million.
 
-The specific rules are: 6% tax is deducted for each transfer, 2% of which is burned, 1% is issued as a reward for recommenders, and 3% is automatically exchanged into mainstream tokens when entering the fund pool wallet.
+The specific rules are: 6% tax is deducted from each transfer, of which 2% is destroyed, 2% is automatically converted into BNB in the fund pool wallet, and 2% is issued as a referrer reward (the specific rules are: airdrop ELFT to a new one The wallet address of ELFT, the contract will automatically establish a token recommendation relationship, and the token recommendation relationship has two levels. The first-level recommendation address and the second-level recommendation address enjoy 1% of the token recommender reward).&#x20;
+
+The deflation stop rule when the total amount reaches 21 million: 2% of the destruction of each transfer and 2% of the fund pool tax and fees are automatically stopped (automatically executed in the contract). The 2% referral bonus tax remains the same. The various income destruction parts in the game are also automatically stopped. The total amount remains unchanged thereafter.
 
 The role of the fund pool: when the price of the currency drops too much, the protection mechanism will be activated to repurchase ELFT And ELF NFT.
 

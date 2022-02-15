@@ -12,11 +12,12 @@
 | Consultant          | 2,000,000   | 2%         |
 | Marketing           | 7,000,000   | 7%         |
 
-\*\*release rule\
-\*\*
+#### Release Rule
 
-The part of the team began to be released linearly 2 months after it went online, with 0.3% released every month, for a total of 42 months.
+The team part began to be released linearly 2 months after the launch, with 0.3% released every month, for a total of 42 months.&#x20;
 
-The marketing part is managed by the DAO community market autonomy.
+The marketing section has 7 linear releases, one release per month. Early investors are released after the BNB blind box sales are completed, and it is released linearly in 5 times, once a month.&#x20;
 
-Early investors will release 30% after the blind box sale is completed. 30% will be released after PVE goes online, and the remaining 40% will be released 90 days after PVE goes online.
+The initial liquidity and advisor part of the contracts are released at one time when they are generated.
+
+&#x20;The reward part of the game is released according to the rules of the game. For details, see the introduction to the gameplay.

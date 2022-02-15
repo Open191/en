@@ -36,6 +36,8 @@ Players need to pay ELFT to reproduce, which is determined by the number of repr
 | 6              | 2100      |
 | 7              | 3400      |
 
+30% of the reproduction cost will be automatically destroyed, and the rest will be used as project income.
+
 #### Incubation
 
 Fairy eggs need to be sent to the incubation house for incubation.
@@ -78,7 +80,7 @@ Male elf players receive a quarter of the reproduction fee in return.
 
 From the fairy eggs hatch the lowest form of elf.
 
-The elves reproduce to produce offspring elves, and the offspring's regular abilities have a random probability of plus or minus 20% according to the offspring's own NFT character value.
+The elves reproduce to produce offspring elves, and the offspring's regular abilities have a random probability of plus or minus 10% according to the offspring's own NFT character value.
 
 Two sprites may spawn new NFT characters, and their rarity determines the probability that their offspring will have high rarity.
 

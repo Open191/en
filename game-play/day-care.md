@@ -8,7 +8,7 @@ If two elf that meet the breeding rules are deposited in the Day Care, it is pos
 
 #### Hatchin eggs
 
-The elf egg needs to be deposited in the Day Care to hatch the elf. When the elf egg is stored outside the Day Care, the growth of the egg will be suspended. The egg incubation time depends on the incubation cycle of this elf. The egg hatching time depends on the elf's incubation cycle, such as the rarer or more powerful elf, the shorter the hatching cycle will be.
+The elf egg needs to be deposited in the Day Care to hatch the elf. When the elf egg is stored outside the Day Care, the growth of the egg will be suspended. The egg incubation time depends on the incubation cycle of this elf. The hatching time of the egg depends on the elf's incubation period, such as the rare or powerful elf, the incubation period will be particularly short.
 
 #### More gameplay
 
