@@ -1,31 +1,31 @@
-# Invitation Plan
+# Invitation Program
 
 #### Elfball
 
-Invite your friends to buy Elfballs and get 10% Elfball sales rewards for 1 each Elfball.
+Invite friends to buy elfalls, 1 elfball can get 10% of elfball sales.
 
 #### Training Venue
 
-7% rewards of training income for level 1 friends
+7% reward of training income of level 1 friends
 
-3% rewards of training income for level 2 friends
+3% reward of training income for level 2 friends
 
-#### **Marketplace**
+#### NFT Market
 
-ELFT rewards of 1.5% of turnover for level 1 friends
+level1 friends get 1.5% ELFT reward of turnover
 
-ELFT rewards of 0.5% of turnover for level 2 friends
+level2 friends get 0.5% ELFT reward of turnover
 
 #### PVE and PVP
 
-7% rewards of training income for level 1 friends
+7% bonus of training income for level 1 friends
 
-3% rewards of training income for level 2 friends
+3% bonus of training income for level 2 friends
 
-Level 1 friends and level 2 friends must have an Elf or an Elfball for their activation.
+The activation condition for level 1 friends and level 2 friends is that you must first have a elf or Elfball.
 
-#### TOP10 Performance Rewards
+#### TOP10 performance reward
 
-The First place: 30%,  the Second Place: 20%, the Third Place 10%, **the Fourth-Tenth Place**: equal share in 40%. The rewards are granted every 3 months, with 100,000 ELFT each time.
+First place: 30%, second place: 20%, third place 10%, 4th-10th place: evenly split 40%, reward once every 3 months, a total of 3 times. Reward 100,000 ELFT each time,
 
-Assessment requirements: Top 10 recommendations from levels 1+2 friends. The ELFT rewards come from the token pool under market operation.
+Evaluation conditions: Level 1 plus Level 2 Referrer Performance for the top 10, the source of this reward token is the market operation token pool.

@@ -1,55 +1,59 @@
 # Training Venue
 
-Have your elf participate in Training mode to prepare for adventures and gameplay.&#x20;
+Engage your elf in training mode and get them ready for adventure and play.
 
-How to Train?
+#### **How to train them?**
 
-Step 1: Get a elf
+Step 1: Get an elf
 
-Step 2: Go to the Training Venue and select the elf to train
+Step 2: Go to the Training Venue and choose the elf you want to train
 
-Step 3: Confirm the training and stake the corresponding ELFT Start training !
+Step 3: Confirm the training and pledge the appropriate ELFT to start training!
 
-**Training Income-**Elf in Baby Form
+#### Training income-elf of **juvenile form**
 
-Rarity N: Pledge 300 ELFT to start a 1-day training, and each training can get 12 ELFT.&#x20;
+Rarity N: Pledge 300 ELFT, start 1 day of training, reward: 12 ELFT/ time.&#x20;
 
-Rarity R: Pledge 300 ELFT to start a 1-day training, and each training can get 14 ELFT.&#x20;
+Rarity R: Pledge 300 ELFT, start 1 day of training, reward: 14 ELFT/ time.&#x20;
 
-Rarity SR: Pledge 300ELFT to start a 1-day training, and  each training can get 16 ELFT.&#x20;
+Rarity SR: Pledge 300 ELFT, start 1 day of training, reward: 16 ELFT/ time.&#x20;
 
-Rarity SSR: Stake 300 ELFT to start a 1-day training, and each training can get 18 ELFT.&#x20;
+Rarity SSR: Pledge 300 ELFT, start 1 day of training, reward: 18 ELFT/ time.&#x20;
 
-Rarity GR: Pledge 300 ELFT to start a 1-day training, and each training can get 20 ELFT.&#x20;
+Rarity GR: Pledge 300 ELFT, start 1 day of training, reward: 20 ELFT/ time.&#x20;
 
-Rarity UR: Pledge 300 ELFT to start a 1-day training, each training can get 22 ELFT.
+Rarity UR: Pledge 300 ELFT, start 1 day of training, reward: 22 ELFT/ time.
 
-**Training Income-**Elf in Adult Form
+#### **Training income – elf of adult form**
 
-&#x20;Rarity N: Pledge 300 ELFT to start a 1-day training, each training can get 16 ELFT.&#x20;
+Rarity N: Pledge 300 ELFT, start 1 day of training, reward: 16 ELFT/ time.
 
-Rarity R: Pledge 300ELFT to start a 1-day training, and each training can get 18 ELFT.&#x20;
+Rarity R: Pledge 300 ELFT, start 1 day of training, reward: 18 ELFT/ time.
 
-Rarity SR: Pledge 300 ELFT to start a 1-day training, and each training can get 20 ELFT.&#x20;
+Rarity SR: Pledge 300 ELFT, start 1 day of training, reward: 20 ELFT/ time.
 
-Rarity SSR: Pledge 300ELFT to start a 1-day training, and each training can get 22 ELFT.&#x20;
+Rarity SSR: Pledge 300 ELFT, start 1 day of training, reward: 22 ELFT/ time.
 
-Rarity GR: Pledge 300ELFT to start a 1-day training, and each training can get 24 ELFT.&#x20;
+Rarity GR: Pledge 300 ELFT, start 1 day of training, reward: 24 ELFT/ time.
 
-Rarity UR: Pledge 300 ELFT to start a 1-day training, and each training can get 26 ELFT.
+&#x20;Rarity UR: Pledge 300 ELFT, start 1 day of training, reward: 26 ELFT/ time.
 
-**Training Income -** Elf in Ultimate Form&#x20;
+#### **Training income – elf of ultimate form**
 
-Rarity N: Pledge 300 ELFT to start a 1-day training, each training can get 21 ELFT.&#x20;
+Rarity N: Pledge 300 ELFT, start 1 day of training, reward: 21 ELFT/ time.
 
-Rarity R: Pledge 300 ELFT to start a 1-day training, and each training can get 23 ELFT.&#x20;
+Rarity R: Pledge 300 ELFT, start 1 day of training, reward: 23 ELFT/ time.
 
-Rarity SR: Pledge 300ELFT to start a 1-day training, and each training can get 25 ELFT.&#x20;
+Rarity SR: Pledge 300 ELFT, start 1 day of training, reward: 25 ELFT/ time.
 
-Rarity SSR: Stake 300ELFT to start a 1-day training, and  each training can get 27 ELFT.&#x20;
+Rarity SSR: Pledge 300 ELFT, start 1 day of training, reward: 27 ELFT/ time.
 
-Rarity GR: Pledge 300ELFT to start a 1-day training, and each training can get 29 ELFT.&#x20;
+Rarity GR: Pledge 300 ELFT, start 1 day of training, reward: 29 ELFT/ time.
 
-Rarity UR: Pledge 300ELFT to start a 1-day training, and each training can get 31 ELFT.
+Rarity UR: Pledge 300 ELFT, start 1 day of training, reward: 31 ELFT/ time.
 
-Training income will gradually decrease with the increase in the number of elves and the increase in later game scenes.
+#### **Notes:**
+
+Training income will gradually decrease as the number of elves grows and later game scenarios increase.
+
+Training returns can be adjusted according to the game development. After the adjustment the new training cycle is executed according to the new rules, without affecting the training returns of the previous training cycle.
