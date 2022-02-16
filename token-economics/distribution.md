@@ -1,8 +1,8 @@
-# Distribution
+# Allocation
 
-#### Token Distribution
+#### Token Allocation
 
-| Tokenomics          | Quantity    | Percentage | Vesting Period |
+| Token Economics     | Quantity    | Percentage | Vesting Period |
 | ------------------- | ----------- | ---------- | -------------- |
 | Total Supply        | 100,000,000 | 100%       |                |
 | Gameplay Incentives | 70,000,000  | 70%        |                |
