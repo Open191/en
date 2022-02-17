@@ -1,6 +1,6 @@
 # NFT Characters
 
-Players can purchase fairy balls to randomly acquire elves. There are currently 12 types of Genesis elves, covering 12 egg groups. New types of elf will be created in the future as the game is updated.
+Players can randomly obtain elf by purchasing the Elfball. Currently there are a total of 12 Creation Elves, covering 12 Egg Groups. Future updates with the game will breed new varieties of elf.
 
 ### Ho-Oh <a href="#ho-oh" id="ho-oh"></a>
 

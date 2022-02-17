@@ -32,7 +32,7 @@
 * [NFT Characters](elf-gallery/nft-characters.md)
 * [Feature Information](elf-gallery/feature-information.md)
 * [Type](elf-gallery/type.md)
-* [Permanent Stats](elf-gallery/permanent-stats.md)
+* [General Abilities](elf-gallery/permanent-stats.md)
 * [Egg Group](elf-gallery/egg-group.md)
 
 ## ROAD MAP

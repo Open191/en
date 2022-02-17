@@ -1,6 +1,6 @@
-# Permanent Stats
+# General Abilities
 
-Regular abilities are the various parameters of an elf in a match. Each elf has 15 ability values, which are HP, ATK, SPE, ADF, CRE, CRI, DAM, ARM, HIT, AGI, INT, STA, STR, POT, AND EAV.
+General Abilities are the various parameters of an elf in a battle. Each elf has 15 ability values, including HP, ATK, SPE, ADF, CRE, CRI, DAM, ARM, HIT, AGI, INT, STA, STR, POT, and EAV.
 
 **HP（Hit Points）**
 
@@ -34,7 +34,7 @@ Represents deal critical damage.
 
 ......
 
-**HIT**&#x20;
+**HIT**
 
 ......
 
