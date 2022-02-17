@@ -1,10 +1,7 @@
-# Land Sale\(Trailer\)
+# Land Sale (Pre)
 
-The land consists of a breeding house, a wilderness field, a duel field, etc., and is an NFT asset with a unique ID. After the user purchases the corresponding land, he can obtain the land tax commission for the duel breeding wild exploration income generated on this land.
+Land consists of Incubation House, Wild, Dueling Arena, etc. It is an NFT asset with a unique ID. After purchasing a land, you can get a land tax commission on the income generated from dueling, breeding and wild adventure.
 
+#### More Gameplay
 
-
-#### More gameplay
-
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
-
+Elves will continue to introduce new and different aspects to the gameplay with the upcoming...

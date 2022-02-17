@@ -22,10 +22,10 @@
 * [Evolution](game-play/evolution-trailer.md)
 * [Breeding](game-play/breeding.md)
 * [Duel Field (Trailer)](game-play/duel-field.md)
-* [Market (Trailer)](game-play/market.md)
-* [Day Care (Trailer)](game-play/day-care.md)
-* [Wilderness Exploration(Trailer)](game-play/wilderness-explorationtrailer.md)
-* [Land Sale(Trailer)](game-play/land-saletrailer.md)
+* [Marketplace (Pre)](game-play/market.md)
+* [Day Care (Pre)](game-play/day-care.md)
+* [Wild Adventure (Pre)](game-play/wilderness-explorationtrailer.md)
+* [Land Sale (Pre)](game-play/land-saletrailer.md)
 
 ## ELF GUIDE
 

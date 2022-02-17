@@ -1,10 +1,9 @@
-# Wilderness Exploration\(Trailer\)
+# Wild Adventure (Pre)
 
-Wilderness expedition is a place where explorers search for elves in the wilderness. Players can explore to find new unknown elves and tame the adopted elves.
+Wild Adventure is a place for explorers to explore the wilderness in search of elves. Players can explore to find new unknown elves and tame and adopt elves.
 
-In addition to being spawned by breeding and hatching, elves can also be obtained by exploring in the wild. Explorers risked losing their equipment in the wild to find wild elves.
+In addition to being produced by breeding and hatching, elves can also be obtained by searching in the wild. Explorers in the wild risk losing equipment to find wild elves.
 
-#### More gameplay
+#### More Gameplay
 
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
-
+Elves will continue to introduce new and different aspects to the gameplay with the upcoming...

@@ -1,15 +1,15 @@
-# Day Care (Trailer)
+# Day Care (Pre)
 
-The breeding house is a commercial place for breeding and incubating eggs operated by Day-Care Couple. Players can deposit elf and elf eggs and need to pay ELFT.
+The Incubation House is a commercial place for breeding and hatching eggs operated by the Incubation House couple. Players can deposit elves and elf eggs and are required to pay ELFT.
 
 #### Breeding
 
-If two elf that meet the breeding rules are deposited in the Day Care, it is possible to obtain elf eggs. If there are no elf that comply with the breeding rules in the Day Care, you will not be able to get the elf for the time being, and you need to continue to wait for other players to deposit the elf.
+When two elves that meet the breeding rules are deposited in the Incubation House, it is possible to get an elf egg. If there are no elves that meet the breeding rules in the Incubation House, you will not be able to get the elf eggs for the time being and will need to wait for other players to deposit their elves.
 
 #### Hatchin eggs
 
-The elf egg needs to be deposited in the Day Care to hatch the elf. When the elf egg is stored outside the Day Care, the growth of the egg will be suspended. The egg incubation time depends on the incubation cycle of this elf. The hatching time of the egg depends on the elf's incubation period, such as the rare or powerful elf, the incubation period will be particularly short.
+Elf eggs need to be stored in the Incubation House in order to hatch the elf, and the growth of the eggs will be suspended if they are stored outside the Incubation House. The time it takes for the eggs to hatch depends on the incubation period of the elf, and the incubation period will be especially long for elves with high rarity or power.
 
 #### More gameplay
 
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
+Elves will continue to introduce new and different aspects to the gameplay with the upcoming...
