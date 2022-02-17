@@ -1,7 +1,7 @@
 # Feature Information
 
-Elf is a new species of NFT based on the ERC-721 protocol. Some elves live in harmony with humans, and some live in the mountains. One of their main characteristics is that they can be subdued by elfball so that they can be carried with them. The exact number of elves is unknown, there are hundreds of species currently known, and more elves will be discovered in the future. Each kind of elf can hatch more than one according to the ID number.
+Elves are a new species of NFT based on the ERC-721 protocol. Some elves live in harmony with humans, others inhabit the mountains and wilderness, and one of their main features is that they can be taken in by an Elfball, allowing them to be carried around with them. The exact number of elves is unknown. There are several hundred known species, and more will be discovered in the future.&#x20;
 
-When the Elf World was first released, a total of 8,000 creation elves will be generated in the form of blind boxes. In addition, 1,000 creation elves can be captured in the wild adventure, and the rest of the elves are all hatched from the 9,000 creation elves.
+Each type of elf can be hatched multiple times based on ID number, and a total of 8000 Creation Elves will be generated in the form of a blind box at the first release of Elfworld. In addition, 1000 Creation Elves can be captured in Wild Adventure, and the rest of the elves are all hatched by these 9000 Creation Elves.
 
-Each elf includes gender, type, stat, ability, rarity and egg group to which it belongs.
+Each elf includes features such as gender, attributes, general abilities, characteristics, rarity, and egg groups to which it belongs.
