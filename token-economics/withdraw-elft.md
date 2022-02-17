@@ -1,36 +1,38 @@
-# Withdraw ELFT
+# ELFT Extraction
 
-The withdraw system works on an individual basis, each account will have a different fee depending on how long he/she has been waiting between withdrawals.
+The token extraction system operates on an account basis, and each account will be charged a different fee depending on when the player chooses to extract.
 
-We know that when panic situations are generated, people can be influenced to sell. Our way to counteract these situations is as follows:
+We know that when there is a panic situation, people may be affected to become eager. Our approach to these situations is as follows.
 
-The Withdraw rate will start from 75%. Every day it will be reduced by 5% until it reaches the minimum, 5%. 60% of the withdraw rate will go to burn token, which will result in a significant increase in value. So when a person panic sells, something that should hurt the market, he will be benefiting the ELFT, since if the rate is high, he will be contributing to burn a lot of tokens.
+The extraction rate will start at 75%. Every day it will decrease by 5% until it reaches the minimum value of 5%.
 
-Every day is reduced by 5% which would be the withdraw rate:
+60% of the extraction rate will be used to destroy the tokens, which will result in a significant increase in value. Thus, when a person sells something that should hurt the market in panic, he will benefit from ELFT because if the rate is high, he will help destroy a large number of tokens.
 
-| Date of Waiting | Rate |
-| --------------- | ---- |
-| 0               | 75%  |
-| 1               | 70%  |
-| 2               | 65%  |
-| 3               | 60%  |
-| 4               | 55%  |
-| 5               | 50%  |
-| 6               | 45%  |
-| 7               | 40%  |
-| 8               | 35%  |
-| 9               | 30%  |
-| 10              | 25%  |
-| 11              | 20%  |
-| 12              | 15%  |
-| 13              | 10%  |
-| 14              | 5%   |
+For each additional unit of extraction time, the extraction rate is reduced by 5%, which will be the rate for extracting tokens:
 
-Once we remove it, the day counter will start again.
+| Extraction time (day) | Extraction rate |
+| --------------------- | --------------- |
+| 0                     | 75%             |
+| 1                     | 70%             |
+| 2                     | 65%             |
+| 3                     | 60%             |
+| 4                     | 55%             |
+| 5                     | 50%             |
+| 6                     | 45%             |
+| 7                     | 40%             |
+| 8                     | 35%             |
+| 9                     | 30%             |
+| 10                    | 25%             |
+| 11                    | 20%             |
+| 12                    | 15%             |
+| 13                    | 10%             |
+| 14                    | 5%              |
 
-Practical examples:
+After an extraction is completed, the token extraction counter will restart.
 
-* Case 1:Withdraw 100 ELFT. If you choose to arrive in 3 days, the withdrawal fee will be 60%. Then 40 ELFTs will be credited to the account. Pay 60 ELFT (100\*60%) as a handling fee, of which 36 ELFT (60\*60%) will be used for destruction.
-* Case 2:Withdraw 100 ELFT. If you choose to arrive within 14 days, the withdrawal fee will be at least 5%. After the 14th day, 95 ELFT will be received. Pay 5 ELFT(100\*5%) as a handling fee, of which 3 ELFT tokens (5\*60%) will be used for destruction.
+Real examples:
 
-The above coin withdrawal system is suitable for in-game staking training, PVE, PVP and other links.
+* Case 1: For extraction of 100 ELFT, the extraction rate is 60% if the tokens are extracted on the 3rd day. Then 40 ELFT will be credited. 60 ELFT (100\*60%) will be paid as service charge, in which 36 ELFT (60\*60%) will be used for destruction.
+* Case 2: For extraction of 100 ELFT, the extraction rate is a **minimum of 5%** if the tokens are extracted on the 14th day. Then 95 ELFT will be credited. 5 ELFT (100\*5%) will be paid as service charge, in which 3 ELFT (5\*60%) will be used for destruction.
+
+The above token extraction system is applicable to all sessions of in-game pledge training, PVE, PVP, etc.

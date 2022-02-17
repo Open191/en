@@ -2,6 +2,6 @@
 
 ![](.gitbook/assets/cover.png)
 
-Elfs are NFT characters cast in according to **ERC-721 standard** and can be traded in our market. Game players are allowed to use elfball to collect elf, and **earn ELFT** through training, duel and other strategies. There will be more interesting application scenarios coming soon.
+Elves are **NFT characters cast to ERC-721 standards** and can be used by the players to earn passive income. Players are allowed to use Elfball to collect elves and earn **ELFT** through training, dueling and other strategies. There are more fun application scenarios coming soon.
 
-The game **runs on the BSC (Binance Smart Chain) network**, which will ensure that **transaction costs are very low**. Compatible with web3 wallets such as MetaMask, used to accept transactions and pay gas fees. MetaMask can be installed as a browser extension or as an application on a mobile device.
+The game runs on the **BSC (Binance Chain) network**, which will ensure **very low transaction costs.** It is compatible with web3 wallets such as MetaMask for accepting transactions and paying gas fees. MetaMask can be installed as a browser extension or as an app on mobile devices.

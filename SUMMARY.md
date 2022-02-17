@@ -27,13 +27,13 @@
 * [Wild Adventure (Pre)](game-play/wilderness-explorationtrailer.md)
 * [Land Sale (Pre)](game-play/land-saletrailer.md)
 
-## ELF GUIDE
+## ELF GALLERY
 
-* [NFT Characters](elf-guide/nft-characters.md)
-* [Feature Information](elf-guide/feature-information.md)
-* [Type](elf-guide/type.md)
-* [Permanent Stats](elf-guide/permanent-stats.md)
-* [Egg Group](elf-guide/egg-group.md)
+* [NFT Characters](elf-gallery/nft-characters.md)
+* [Feature Information](elf-gallery/feature-information.md)
+* [Type](elf-gallery/type.md)
+* [Permanent Stats](elf-gallery/permanent-stats.md)
+* [Egg Group](elf-gallery/egg-group.md)
 
 ## ROAD MAP
 
