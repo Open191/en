@@ -21,7 +21,7 @@
 * [Training Venue](game-play/training-venue.md)
 * [Evolution](game-play/evolution-trailer.md)
 * [Breeding](game-play/breeding.md)
-* [Duel Field (Trailer)](game-play/duel-field.md)
+* [Duel Field (Pre)](game-play/duel-field.md)
 * [Marketplace (Pre)](game-play/market.md)
 * [Day Care (Pre)](game-play/day-care.md)
 * [Wild Adventure (Pre)](game-play/wilderness-explorationtrailer.md)
