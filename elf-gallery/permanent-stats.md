@@ -10,6 +10,8 @@ Represents a character's health. Combatants are K.O.ed if their HP reaches 0.
 
 Attack is a type of elf ability. The high-attack elf uses moves that cause high damage.
 
+ATK=DAM\*1+ADF\*1+ARM\*1+HP\*0.1+SPE+HIT\*2+EVA\*2.4+CRI\*2+CRE\*2
+
 **SPE（Speed）**
 
 Decreses the time between a character's turms, allowing them to act more frequently.
@@ -60,4 +62,17 @@ Increases the damage dealt by attacks and physical crafts.
 
 **EVA（vasion）**
 
+|   |   |
+| - | - |
+|   |   |
+|   |   |
+|   |   |
+
 Represents the chance to evade attacks an crafts without fail.
+
+x=level, i=evolution times, N=(STA/STR/AGI/INT), n=( +sta/ +str/ +agi/ +int )
+
+$$
+f(x) =n (x -1)* 1.17^{ 4i}+N
+$$
+
