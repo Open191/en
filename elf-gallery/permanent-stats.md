@@ -24,16 +24,18 @@ General Abilities are the various parameters of an elf in a battle. Each elf has
 | HIT        | Hit                 |
 | SPE        | Speed               |
 
-
+$$
+HP=STA*10
+$$
 
 $$
 ATK=DAM*1+ADF*1+ARM*1+HP*0.1+SPE+HIT*2+EVA*2.4+CRI*2+CRE*2
 $$
 
-
+#### Growth formula，about STA ， STR ， AGI ， INT  :&#x20;
 
 $$
-f(x) =n (x -1)* 1.17^{ 4i}+N
+f(x) =n (x -1)* 1.17^{ i*4}+N
 $$
 
 x=Level
