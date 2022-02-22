@@ -2,7 +2,7 @@
 
 General Abilities are the various parameters of an elf in a battle. Each elf has 15 ability values, including HP, ATK, SPE, ADF, CRE, CRI, DAM, ARM, HIT, AGI, INT, STA, STR, POT, and EAV.
 
-| Short Name | Complete Name       |
+| Short name | Complete name       |
 | ---------- | ------------------- |
 | ATK        | Attack Power        |
 | HP         | Hit Points          |
@@ -38,8 +38,8 @@ $$
 
 x=Level
 
-i=Evolution Times
+i=Number of Evolution
 
-N=(STA/STR/AGI/INT)
+N=( STA / STR / AGI / INT )
 
-n=( _+sta/ +str/ +agi/ +int_ )
+n=( _+sta / +str / +agi / +int_ )
