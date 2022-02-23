@@ -6,21 +6,21 @@ Invite your friends to buy Elfballs and get 10% Elfball sales rewards for 1 each
 
 #### Training Venue
 
-5% rewards of training income for level 1 friends
+7% rewards of training income for level 1 friends
 
-5% rewards of training income for level 2 friends
+3% rewards of training income for level 2 friends
 
 #### **Marketplace**
 
-ELFT rewards of 1% of turnover for level 1 friends
+ELFT rewards of 1.5% of turnover for level 1 friends
 
-ELFT rewards of 1% of turnover for level 2 friends
+ELFT rewards of 0.5% of turnover for level 2 friends
 
 #### PVE and PVP
 
-5% rewards of training income for level 1 friends
+7% rewards of training income for level 1 friends
 
-5% rewards of training income for level 2 friends
+3% rewards of training income for level 2 friends
 
 Level 1 friends and level 2 friends must have an Elf or an Elfball for their activation.
 
