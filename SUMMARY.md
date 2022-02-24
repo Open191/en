@@ -42,4 +42,5 @@
 ## ABOUT US
 
 * [Team](about-us/team.md)
+* [Partner](about-us/partner.md)
 * [Contact Information](about-us/contact-information.md)
