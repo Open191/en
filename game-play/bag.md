@@ -8,8 +8,21 @@ Equipment is divided into 5 quality levels: white < green < blue < purple < oran
 
 #### Prop
 
-| Name | Use | Description |
-| ---- | --- | ----------- |
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Prop Name           | Application                                                  | Description                                                                                  |
+| ------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Soul Stone          |                                                              |                                                                                              |
+| Fortified Stone     |                                                              |                                                                                              |
+| God Metal           |                                                              |                                                                                              |
+| Coupon              |                                                              |                                                                                              |
+| Activity            |                                                              |                                                                                              |
+| WEP                 |                                                              |                                                                                              |
+| WELFT               |                                                              |                                                                                              |
+| Sweeping Scroll     |                                                              |                                                                                              |
+| Punch Hammer        |                                                              |                                                                                              |
+| Badge Essence       |                                                              |                                                                                              |
+| Easter Stone        | Resurrection of the fallen elves during the expedition       | Can be obtained by opening treasure chests in expeditions                                    |
+| Treasure Hunt Order | Treasure Hunt Props                                          | Treasure hunt for rare equipment                                                             |
+| Key                 | Key to open treasure chest                                   | It can be purchased in the store, or obtained through other means such as welfare activities |
+| Reward Box          | Get equipment, a certain probability to get orange equipment | Reward Box in Damage Ranking                                                                 |
+| Orange Box          | Equipment available in orange                                | Orange Boxe in World Bosses                                                                  |
+| Gem box             | Get a random gem                                             | The treasure chest box                                                                       |
