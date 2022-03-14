@@ -8,21 +8,21 @@ Equipment is divided into 5 quality levels: white < green < blue < purple < oran
 
 #### Prop
 
-| Prop Name           | Application                                                  | Description                                                                                              |
-| ------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Soul Stone          |                                                              |                                                                                                          |
-| Fortified Stone     |                                                              |                                                                                                          |
-| God Metal           |                                                              |                                                                                                          |
-| Coupon              |                                                              |                                                                                                          |
-| Activity            |                                                              |                                                                                                          |
-| WEP                 | Consumables                                                  | Used for system consumption such as equipment strengthening, refining, elf evolution, star upgrade, etc. |
-| WELFT               | Consumables                                                  | Buy items from the fair, purchases, etc.                                                                 |
-| Sweeping Scroll     | Raid Rlite Instance                                          | Buy it at the shop, or get it by collecting welfare packages, etc.                                       |
-| Punch Hammer        | Gem hole punching                                            | Available in the shop                                                                                    |
-| Badge Essence       | Badge upgrades and breakthrough props                        | Available in the shop                                                                                    |
-| Easter Stone        | Resurrection of the fallen elves during the expedition       | Can be obtained by opening treasure chests in expeditions                                                |
-| Treasure Hunt Order | Treasure Hunt Props                                          | Treasure hunt for rare equipment                                                                         |
-| Key                 | Key to open treasure chest                                   | It can be purchased in the shop, or obtained through other means such as welfare activities              |
-| Reward Box          | Get equipment, a certain probability to get orange equipment | Reward Box in Damage Ranking                                                                             |
-| Orange Box          | Equipment available in orange                                | Orange Boxe in World Bosses                                                                              |
-| Gem box             | Get a random gem                                             | The treasure chest box                                                                                   |
+| Prop Name           | Application                                                  | Description                                                                                                          |
+| ------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Soul Stone          |                                                              |                                                                                                                      |
+| Fortified Stone     |                                                              |                                                                                                                      |
+| God Metal           | Equipment Refinement Items                                   | It can be purchased in the shop, or can be obtained in event dungeons and challenge high-level world bosses          |
+| Coupon              | Redeem and synthesize orange equipment                       | Can be obtained from world bosses, treasure hunts, and event levels                                                  |
+| Activity            | Redeem active mission rewards                                | The reward value when the daily task is completed, you can receive the activity package according to the fixed value |
+| WEP                 | Consumables                                                  | Used for system consumption such as equipment strengthening, refining, elf evolution, star upgrade, etc.             |
+| WELFT               | Consumables                                                  | Buy items from the fair, purchases, etc.                                                                             |
+| Sweeping Scroll     | Raid Rlite Instance                                          | Buy it at the shop, or get it by collecting welfare packages, etc.                                                   |
+| Punch Hammer        | Gem hole punching                                            | Available in the shop                                                                                                |
+| Badge Essence       | Badge upgrades and breakthrough props                        | Available in the shop                                                                                                |
+| Easter Stone        | Resurrection of the fallen elves during the expedition       | Can be obtained by opening treasure chests in expeditions                                                            |
+| Treasure Hunt Order | Treasure Hunt Props                                          | Treasure hunt for rare equipment                                                                                     |
+| Key                 | Key to open treasure chest                                   | It can be purchased in the shop, or obtained through other means such as welfare activities                          |
+| Reward Box          | Get equipment, a certain probability to get orange equipment | Reward Box in Damage Ranking                                                                                         |
+| Orange Box          | Equipment available in orange                                | Orange Boxe in World Bosses                                                                                          |
+| Gem box             | Get a random gem                                             | The treasure chest box                                                                                               |
