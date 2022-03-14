@@ -10,8 +10,7 @@ Equipment is divided into 5 quality levels: white < green < blue < purple < oran
 
 | Prop Name           | Application                                                  | Description                                                                                                          |
 | ------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| Soul Stone          |                                                              |                                                                                                                      |
-| Fortified Stone     |                                                              |                                                                                                                      |
+| Fortified Stone     | Equip boosters                                               | Can be purchased in the shop, or smelt equipment, treasure hunt, etc.                                                |
 | God Metal           | Equipment Refinement Items                                   | It can be purchased in the shop, or can be obtained in event dungeons and challenge high-level world bosses          |
 | Coupon              | Redeem and synthesize orange equipment                       | Can be obtained from world bosses, treasure hunts, and event levels                                                  |
 | Activity            | Redeem active mission rewards                                | The reward value when the daily task is completed, you can receive the activity package according to the fixed value |
