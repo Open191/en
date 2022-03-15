@@ -25,3 +25,12 @@ Equipment is divided into 5 quality levels: white < green < blue < purple < oran
 | Reward Box          | Get equipment, a certain probability to get orange equipment | Reward Box in Damage Ranking                                                                                         |
 | Orange Box          | Equipment available in orange                                | Orange Boxe in World Bosses                                                                                          |
 | Gem box             | Get a random gem                                             | The treasure chest box                                                                                               |
+
+#### Gem
+
+| Gem Name | Application                  | Description                                                                                        |
+| -------- | ---------------------------- | -------------------------------------------------------------------------------------------------- |
+| STA Gem  | Can be embedded in equipment | Increase the stamina (STA) attribute, buy it in the shop, or challenge the gem land to get it      |
+| STR Gem  | Can be embedded in equipment | Increase the strength (STR) attribute, buy it in the shop, or challenge the gem land to get it     |
+| AGI Gem  | Can be embedded in equipment | Increase the agility (AGI) attribute, buy it in the shop, or challenge the gem land to get it      |
+| INT Gem  | Can be embedded in equipment | Increase the intelligence (INT) attribute, buy it in the shop, or challenge the gem land to get it |
