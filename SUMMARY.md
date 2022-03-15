@@ -27,6 +27,7 @@
 * [Wild Adventure (Pre)](game-play/wilderness-explorationtrailer.md)
 * [Land Sale (Pre)](game-play/land-saletrailer.md)
 * [Bag](game-play/bag.md)
+* [World BOSS](game-play/world-boss.md)
 
 ## ELF GALLERY
 
