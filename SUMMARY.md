@@ -21,13 +21,13 @@
 * [Training Venue](game-play/training-venue.md)
 * [Evolution](game-play/evolution-trailer.md)
 * [Breeding](game-play/breeding.md)
+* [Bag](game-play/bag.md)
+* [World BOSS](game-play/world-boss.md)
 * [Duel Field (Pre)](game-play/duel-field.md)
 * [Marketplace (Pre)](game-play/market.md)
 * [Day Care (Pre)](game-play/day-care.md)
 * [Wild Adventure (Pre)](game-play/wilderness-explorationtrailer.md)
 * [Land Sale (Pre)](game-play/land-saletrailer.md)
-* [Bag](game-play/bag.md)
-* [World BOSS](game-play/world-boss.md)
 
 ## ELF GALLERY
 
