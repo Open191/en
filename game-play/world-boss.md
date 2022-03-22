@@ -1,5 +1,7 @@
 # World BOSS
 
+![](<../.gitbook/assets/World BOSS.jpg>)
+
 There are 17 bosses in total, and you can challenge if you meet the level requirements. They will drop equipment of the corresponding level, with a probability of dropping orange equipment.
 
 BOSS is open, all players can challenge, there is no limit on the number of challenges.
@@ -17,3 +19,4 @@ You will not get any props and equipment if you withdraw from the battle.
 The main output channels of orange packaging&#x20;
 
 Increase the output of equipment props
+
