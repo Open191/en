@@ -6,6 +6,8 @@ Elf can wear collar, gloves, headdress, bell, stopwatch, boots, etc. There are 6
 
 Equipment is divided into 5 quality levels: white < green < blue < purple < orange (a halo surrounds the icon), among which only orange equipment can be upgraded. Each upgrade requires a gift certificate, which is determined according to the equipment level. Non-orange equipment can be smelted in the backpack with one click, the altar devours the equipment, and then the smelting enhancement stone and WEG are ejected.
 
+![](../.gitbook/assets/Equipment.png)
+
 #### Prop
 
 | Prop Name           | Application                                                  | Description                                                                                                          |
@@ -25,6 +27,8 @@ Equipment is divided into 5 quality levels: white < green < blue < purple < oran
 | Reward Box          | Get equipment, a certain probability to get orange equipment | Reward Box in Damage Ranking                                                                                         |
 | Orange Box          | Equipment available in orange                                | Orange Boxe in World Bosses                                                                                          |
 | Gem box             | Get a random gem                                             | The treasure chest box                                                                                               |
+
+![](../.gitbook/assets/Prop.png)
 
 #### Gem
 
