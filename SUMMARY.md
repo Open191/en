@@ -26,7 +26,7 @@
 * [Bag](game-play/bag.md)
 * [World BOSS](game-play/world-boss.md)
 * [Challenge BOSS](game-play/duel-field.md)
-* [Marketplace (Pre)](game-play/market.md)
+* [Marketplace](game-play/market.md)
 * [Day Care (Pre)](game-play/day-care.md)
 * [Wild Adventure (Pre)](game-play/wilderness-explorationtrailer.md)
 * [Land Sale (Pre)](game-play/land-saletrailer.md)
