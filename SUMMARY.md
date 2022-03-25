@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Welcome to Elfworld!](README.md)
-* [Language](language/README.md)
-  * [English （Main)](https://docs.elfworld.games)
-  * [Việt Nam](https://docs.elfworld.games/vn/)
+
+## Language
+
+* [English （Main)](https://docs.elfworld.games)
+* [Việt Nam](https://docs.elfworld.games/vn/)
 
 ## TOKEN ECONOMICS
 
