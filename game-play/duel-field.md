@@ -4,7 +4,7 @@ description: Coming Soon
 
 # Challenge BOSS
 
-![](../.gitbook/assets/Fighting.jpg)
+![](<../.gitbook/assets/Challenge BOSS.jpg>)
 
 Players advance through the levels by challenging BOSS, uninterrupted online and offline hang-ups, and quickly increase the rate of gaining EXP and WEG per hour.
 
