@@ -4,7 +4,7 @@
 
 The arena is a PVP system for players to show their own strength. Players gradually improve their rankings and obtain corresponding rewards by challenging players with higher rankings than themselves.
 
-![](<../.gitbook/assets/Arena (1).png>)
+![](../.gitbook/assets/Arena.png)
 
 Players are ranked 1-5: the opponent is the top 5 players;
 
