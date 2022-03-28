@@ -10,8 +10,8 @@
 ## TOKEN ECONOMICS
 
 * [Token Information](token-economics/token-information.md)
-* [Allocation](token-economics/distribution.md)
-* [ELFT Extraction](token-economics/withdraw-elft.md)
+* [Distribution](token-economics/distribution.md)
+* [ELFT Withdraw](token-economics/withdraw-elft.md)
 
 ## INVITATION SYSTEM
 

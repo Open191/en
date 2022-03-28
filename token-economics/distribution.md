@@ -1,6 +1,6 @@
-# Allocation
+# Distribution
 
-#### Token Allocation
+#### Token Distribution
 
 | Token Economics     | Quantity    | Percentage | Vesting Period |
 | ------------------- | ----------- | ---------- | -------------- |
@@ -11,3 +11,4 @@
 | Early Investor      | 6,000,000   | 6%         | 5 months       |
 | Consultant          | 2,000,000   | 2%         |                |
 | Marketing           | 7,000,000   | 7%         | 7 months       |
+
