@@ -93,10 +93,10 @@ The electromagnetic waves released by the components on the left and right shiel
 {% endtab %}
 
 {% tab title="Breeding" %}
-| Type      | Value             |
-| --------- | ----------------- |
-| Egg Group | Mineral           |
-| Gender    | Male : Female=1:1 |
+| Type      | Value               |
+| --------- | ------------------- |
+| Egg Group | Mineral             |
+| Gender    | Male : Female = 1:1 |
 {% endtab %}
 {% endtabs %}
 
@@ -142,10 +142,10 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 {% endtab %}
 
 {% tab title="Breeding" %}
-| Type      | Value             |
-| --------- | ----------------- |
-| Egg Group | Mineral           |
-| Gender    | Male : Female=1:1 |
+| Type      | Value               |
+| --------- | ------------------- |
+| Egg Group | Fairy/Field         |
+| Gender    | Male : Female = 1:1 |
 {% endtab %}
 {% endtabs %}
 
@@ -191,10 +191,10 @@ It started activities after the sun went down. Because its skin is so thin that 
 {% endtab %}
 
 {% tab title="Breeding" %}
-| Type      | Value             |
-| --------- | ----------------- |
-| Egg Group | Grass             |
-| Gender    | Male : Female=1:1 |
+| Type      | Value               |
+| --------- | ------------------- |
+| Egg Group | Flying              |
+| Gender    | Male : Female = 1:1 |
 {% endtab %}
 {% endtabs %}
 
@@ -487,7 +487,7 @@ It has a strong sense of self-pride. Because of its pride, it has a hard time ac
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Water             |
+| Egg Group | Wate/Field        |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
