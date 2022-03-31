@@ -159,7 +159,7 @@ It started activities after the sun went down. Because its skin is so thin that 
 {% tab title="Basic Data" %}
 | Type      | Value                 |
 | --------- | --------------------- |
-| Type      | Flying                |
+| Type      | Grass                 |
 | Rarity    | SSR                   |
 | Height    | 0.8m                  |
 | Weight    | 7.5kg                 |
@@ -551,7 +551,7 @@ As it grow and develop over time, it will shed its skin many times before finall
 {% tab title="Basic Data" %}
 | Type      | Value                         |
 | --------- | ----------------------------- |
-| Type      | Electric                      |
+| Type      | Grass                         |
 | Rarity    | N                             |
 | Height    | 0.3m                          |
 | Weight    | 2.9kg                         |
