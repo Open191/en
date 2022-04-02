@@ -529,17 +529,6 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 | Egg Group | Human-Like        |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
-
-{% tab title="Skill" %}
-| Name           | Description                                                                                                                              |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Psyshock       | Inflicts 110% psychic-type attack on single enemy                                                                                        |
-| Psyshock•Ⅰ     | Inflicts 130% psychic-type attack on single enemy                                                                                        |
-| Psyshock•Ⅱ     | Inflicts 160% psychic-type attack on single enemy                                                                                        |
-| Psycho Shift   | Inflicts 120% psychic-type damage to the enemy's vertical target, and has a low probability to make the enemy unable to use rage skills  |
-| Psycho Shift•Ⅰ | Inflicts 150% psychic-type damage to the enemy's vertical target, and has a low probability to make the enemy unable to use rage skills  |
-| Psycho Shift•Ⅱ | Inflicts 200% psychic-type damage to the enemy's vertical target , and has a low probability to make the enemy unable to use rage skills |
-{% endtab %}
 {% endtabs %}
 
 ### Piplup <a href="#larvitar" id="larvitar"></a>
@@ -588,17 +577,6 @@ It has a strong sense of self-pride. Because of its pride, it has a hard time ac
 | --------- | ----------------- |
 | Egg Group | Wate/Field        |
 | Gender    | Male : Female=1:1 |
-{% endtab %}
-
-{% tab title="Skill" %}
-| Name          | Description                                                              |
-| ------------- | ------------------------------------------------------------------------ |
-| Anger Hit     | Spit out water arrows, inflicts 100% water-type damage to a single enemy |
-| Anger Hit•Ⅰ   | Spit out water arrows, inflicts 130% water-type damage to a single enemy |
-| Anger Hit•Ⅱ   | Spit out water arrows, inflicts 170% water-type damage to a single enemy |
-| Water Arrow   | Inflicts 100% water-type damage to the target's back row                 |
-| Water Arrow•Ⅰ | Inflicts 120% water-type damage to the target's back row                 |
-| Water Arrow•Ⅱ | Inflicts 150% water-type damage to the target's back row                 |
 {% endtab %}
 {% endtabs %}
 
@@ -649,17 +627,6 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 | Egg Group | Water             |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
-
-{% tab title="Skill" %}
-| Name          | Description                                                              |
-| ------------- | ------------------------------------------------------------------------ |
-| Anger Hit     | Spit out water arrows, inflicts 100% water-type damage to a single enemy |
-| Anger Hit•Ⅰ   | Spit out water arrows, inflicts 130% water-type damage to a single enemy |
-| Anger Hit•Ⅱ   | Spit out water arrows, inflicts 170% water-type damage to a single enemy |
-| Water Arrow   | Inflicts 100% water-type damage to the target's back row                 |
-| Water Arrow•Ⅰ | Inflicts 120% water-type damage to the target's back row                 |
-| Water Arrow•Ⅱ | Inflicts 150% water-type damage to the target's back row                 |
-{% endtab %}
 {% endtabs %}
 
 ### Caterpie <a href="#goldeen" id="goldeen"></a>
@@ -708,17 +675,6 @@ As it grow and develop over time, it will shed its skin many times before finall
 | --------- | ----------------- |
 | Egg Group | Bug               |
 | Gender    | Male : Female=1:1 |
-{% endtab %}
-
-{% tab title="Skill" %}
-| Name         | Description                                                                                                     |
-| ------------ | --------------------------------------------------------------------------------------------------------------- |
-| Horn Leech   | Inflicts 80% ground-type damage to a single enemy                                                               |
-| Horn Leech•Ⅰ | Inflicts 100% ground-type damage to a single enemy                                                              |
-| Horn Leech•Ⅱ | Inflicts 120% ground-type damage to a single enemy                                                              |
-| Leaf Blade   | Inflicts 120% ground-type damage to a single enemy, hits the key point, and reduces the target's defense by 20% |
-| Leaf Blade•Ⅰ | Inflicts 130% ground-type damage to a single enemy, hits the key point, and reduces the target's defense by 20% |
-| Leaf Blade•Ⅱ | Inflicts 150% ground-type damage to a single enemy, hits the key point, and reduces the target's defense by 20% |
 {% endtab %}
 {% endtabs %}
 
