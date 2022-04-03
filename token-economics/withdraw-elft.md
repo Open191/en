@@ -6,7 +6,9 @@ We know that when there is a panic situation, people may be affected to become e
 
 The withdrawal rate will start at 75%. Every day it will decrease by 5% until it reaches the minimum value of 5%.
 
-60% of the withdrawal rate will be used to destroy the tokens, which will result in a significant increase in value. Thus, when a person sells something that should hurt the market in panic, he will benefit from ELFT because if the rate is high, he will help destroy a large number of tokens.
+60% of the withdrawal fee will be used to burning directly, which will result in a significant increase in value. Thus, when a person sells something that should hurt the market in panic, he will benefit from ELFT because if the rate is high, he will help destroy a large number of tokens.&#x20;
+
+The remain 40% of the withdrawal fee will be used as Foundation income.
 
 For each additional unit of latency time, the withdrawal rate is reduced by 5%, which will be the rate for withdrawing tokens:
 
